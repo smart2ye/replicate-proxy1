@@ -1,0 +1,4201 @@
+{
+  "yemen_mobile": {
+    "postpaid": {
+      "query_available": 0,
+      "airtime": true,
+      "airtime_data": {
+        "gateway_id": "",
+        "brand_id": "1135"
+      },
+      "topup": [],
+      "bundles_data_sim": [
+        {
+          "bundle_cat_name_en": "Most used",
+          "bundle_cat_name_ar": "الأكثر استخداماً",
+          "bundles_list": [
+            {
+              "name_ar": "هدايا",
+              "name_en": "Hadaya",
+              "amount": "590",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1102",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "هدايا",
+              "name_en": "Hadaya",
+              "amount": "1500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1099",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 4 جيجا",
+              "name_en": "4G Net 4GB",
+              "amount": "2000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1363",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا 4 جيجا",
+              "name_en": "4G Mazaya 4GB",
+              "amount": "2400",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1107",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Mazaya ",
+          "bundle_cat_name_ar": "4G مزايا",
+          "bundles_list": [
+            {
+              "name_ar": "4G مزايا",
+              "name_en": "4G Mazaya",
+              "amount": "300",
+              "duration_ar": "24 ساعة",
+              "duration_en": "24 Hour",
+              "brand_id": "1341",
+              "offer_id_sim": "A4825",
+              "offer_id_prog": "A4825",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا 48 ساعة",
+              "name_en": "4G Mazaya 48H",
+              "amount": "600",
+              "duration_ar": "48 ساعة",
+              "duration_en": "48 Hour",
+              "brand_id": "1345",
+              "offer_id_sim": "A88340",
+              "offer_id_prog": "A88340",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا ماكس 4 جيجا",
+              "name_en": "4G Mazaya MAX 4GB",
+              "amount": "4000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1357",
+              "offer_id_sim": "A88440",
+              "offer_id_prog": "A88440",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا توفير  ",
+              "name_en": "4G Mazaya Tawfer ",
+              "amount": "2400",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1359",
+              "offer_id_sim": "A4823",
+              "offer_id_prog": "A4823",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا 4 جيجا",
+              "name_en": "4G Mazaya 4GB",
+              "amount": "2500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1353",
+              "offer_id_sim": "A88338",
+              "offer_id_prog": "A88338",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا 2 جيجا",
+              "name_en": "4G Mazaya 2GB",
+              "amount": "1500",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1349",
+              "offer_id_sim": "A88339",
+              "offer_id_prog": "A88339",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Mazaya Plus 4G",
+          "bundle_cat_name_ar": "مزايا بلس فورجي",
+          "bundles_list": [
+            {
+              "name_ar": "مزايا بلس",
+              "name_en": "Mazaya Plus",
+              "amount": "2600",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1286",
+              "offer_id_sim": "A4823",
+              "offer_id_prog": "A4823",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مزايا ماكس بلس",
+              "name_en": "Mazaya Max Plus",
+              "amount": "4400",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1287",
+              "offer_id_sim": "A4824",
+              "offer_id_prog": "A4824",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "false"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "NET Plus 4G",
+          "bundle_cat_name_ar": "نت بلس فورجي",
+          "bundles_list": [
+            {
+              "name_ar": "نت بلس اليومية",
+              "name_en": "NET Plus Daily",
+              "amount": "750",
+              "duration_ar": "يوم",
+              "duration_en": "Day",
+              "brand_id": "1289",
+              "offer_id_sim": "A4817",
+              "offer_id_prog": "A4817",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "false"
+            },
+            {
+              "name_ar": "نت بلس الاسبوعية",
+              "name_en": "NET Plus weekly",
+              "amount": "1000",
+              "duration_ar": "الاسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1291",
+              "offer_id_sim": "A3818",
+              "offer_id_prog": "A3818",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "false"
+            },
+            {
+              "name_ar": "نت بلس الشهرية",
+              "name_en": "NET Plus monthly",
+              "amount": "2500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1293",
+              "offer_id_sim": "A4818",
+              "offer_id_prog": "A4818",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Mazaya 4G VoLTE ",
+          "bundle_cat_name_ar": "مزايا 4G فولتي",
+          "bundles_list": [
+            {
+              "name_ar": "باقة مزايا 4G فولتي",
+              "name_en": "Mazaya 4G VoLTE",
+              "amount": "2500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1355",
+              "offer_id_sim": "A4990001",
+              "offer_id_prog": "A4990001",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "باقة مزايا 4G فولتي",
+              "name_en": "Mazaya 4G VoLTE",
+              "amount": "1500",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1351",
+              "offer_id_sim": "A4990002",
+              "offer_id_prog": "A4990002",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "باقة مزايا 4G فولتي",
+              "name_en": "Mazaya 4G VoLTE",
+              "amount": "600",
+              "duration_ar": "يومين",
+              "duration_en": "2 Days",
+              "brand_id": "1347",
+              "offer_id_sim": "A4990003",
+              "offer_id_prog": "A4990003",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Internet",
+          "bundle_cat_name_ar": "4G إنترنت",
+          "bundles_list": [
+            {
+              "name_ar": "4G نت 5 جيجا توفير",
+              "name_en": "4G Net 5GB Tawfer",
+              "amount": "2300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1343",
+              "offer_id_sim": "A4819",
+              "offer_id_prog": "A4819",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 7 جيجا توفير",
+              "name_en": "4G Net 7GB Tawfer",
+              "amount": "3000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1361",
+              "offer_id_sim": "A4818",
+              "offer_id_prog": "A4818",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 4 جيجا",
+              "name_en": "4G Net 4GB",
+              "amount": "2000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1363",
+              "offer_id_sim": "A4820",
+              "offer_id_prog": "A4820",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 8 جيجا",
+              "name_en": "4G Net 8GB",
+              "amount": "3900",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1365",
+              "offer_id_sim": "A4822",
+              "offer_id_prog": "A4822",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 20 جيجا",
+              "name_en": "4G Net 20GB",
+              "amount": "9700",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1367",
+              "offer_id_sim": "A4829",
+              "offer_id_prog": "A4829",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Supper 4G",
+          "bundle_cat_name_ar": "سوبر 4G",
+          "bundles_list": [
+            {
+              "name_ar": "سوبر 4G",
+              "name_en": "Supper 4G",
+              "amount": "2000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1111",
+              "offer_id_sim": "A5533821",
+              "offer_id_prog": "A5533821",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Hadaya",
+          "bundle_cat_name_ar": "هدايا",
+          "bundles_list": [
+            {
+              "name_ar": "هدايا توفير",
+              "name_en": "Gift provider",
+              "amount": "250",
+              "duration_ar": "4 أيام",
+              "duration_en": "4 days",
+              "brand_id": "1101",
+              "offer_id_sim": "A66328",
+              "offer_id_prog": "A66328",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "هدايا",
+              "name_en": "Hadaya",
+              "amount": "590",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1102",
+              "offer_id_sim": "A44330",
+              "offer_id_prog": "A44330",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "هدايا",
+              "name_en": "Hadaya",
+              "amount": "1500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1099",
+              "offer_id_sim": "A68329",
+              "offer_id_prog": "A68329",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "هدايا ماكس",
+              "name_en": "Gift Max",
+              "amount": "3000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1098",
+              "offer_id_sim": "A76328",
+              "offer_id_prog": "A76328",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Mazaya SMS",
+          "bundle_cat_name_ar": "مزايا رسائل",
+          "bundles_list": [
+            {
+              "name_ar": "مزايا رسائل 800 رسالة",
+              "name_en": "Mazaya SMS 800",
+              "amount": "1000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1265",
+              "offer_id_sim": "A41338",
+              "offer_id_prog": "A41338",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Net 3G SIM",
+          "bundle_cat_name_ar": "الإنترنت 3G شريحة",
+          "bundles_list": [
+            {
+              "name_ar": "نت 150 ميجا ",
+              "name_en": "Net 150 MB",
+              "amount": "500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1152",
+              "offer_id_sim": "A69351",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 300 ميجا ",
+              "name_en": "Net 300 MB",
+              "amount": "900",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1160",
+              "offer_id_sim": "A69352",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 450 ميجا ",
+              "name_en": "Net 450 MB",
+              "amount": "1300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1177",
+              "offer_id_sim": "A69354",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 700 ميجا ",
+              "name_en": "Net 700 MB",
+              "amount": "1800",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1134",
+              "offer_id_sim": "A69354",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1 جيجا ",
+              "name_en": "Net 1 GB",
+              "amount": "1400",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1156",
+              "offer_id_sim": "A74335",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1500 ميجا",
+              "name_en": "Net 1500 MB",
+              "amount": "3300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1150",
+              "offer_id_sim": "A69356",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 2 جيجا ",
+              "name_en": "Net 2 GB",
+              "amount": "2600",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1158",
+              "offer_id_sim": "A74342",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 3 جيجا ",
+              "name_en": "Net 3 GB",
+              "amount": "4500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1162",
+              "offer_id_sim": "A69357",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 4 جيجا ",
+              "name_en": "Net 4 GB",
+              "amount": "4800",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1179",
+              "offer_id_sim": "A74348",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 5 جيجا ",
+              "name_en": "Net 5 GB",
+              "amount": "7000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1172",
+              "offer_id_sim": "A69358",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 6 جيجا ",
+              "name_en": "Net 6 GB",
+              "amount": "6000",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1181",
+              "offer_id_sim": "A74354",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 7 جيجا ",
+              "name_en": "Net 7 GB",
+              "amount": "9000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1185",
+              "offer_id_sim": "A69359",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 15 جيجا ",
+              "name_en": "Net 15 GB",
+              "amount": "15000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1154",
+              "offer_id_sim": "A69360",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Net 3G Program",
+          "bundle_cat_name_ar": "الإنترنت 3G برمجة",
+          "bundles_list": [
+            {
+              "name_ar": "نت 150 ميجا ",
+              "name_en": "Net 150 MB",
+              "amount": "500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1151",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69361",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 300 ميجا ",
+              "name_en": "Net 300 MB",
+              "amount": "900",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1159",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69362",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 450 ميجا ",
+              "name_en": "Net 450 MB",
+              "amount": "1300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1176",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69363",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 700 ميجا ",
+              "name_en": "Net 700 MB",
+              "amount": "1800",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1182",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69364",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1 جيجا ",
+              "name_en": "Net 1 GB",
+              "amount": "1400",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1175",
+              "offer_id_sim": "",
+              "offer_id_prog": "A74336",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1500 ميجا",
+              "name_en": "Net 1500 MB",
+              "amount": "3300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1149",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69365",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 2 جيجا ",
+              "name_en": "Net 2 GB",
+              "amount": "2600",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1157",
+              "offer_id_sim": "",
+              "offer_id_prog": "A74343",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 3 جيجا ",
+              "name_en": "Net 3 GB",
+              "amount": "4500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1161",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69366",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 4 جيجا ",
+              "name_en": "Net 4 GB",
+              "amount": "4800",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1178",
+              "offer_id_sim": "",
+              "offer_id_prog": "A74349",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 5 جيجا ",
+              "name_en": "Net 5 GB",
+              "amount": "7000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1171",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69367",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 6 جيجا ",
+              "name_en": "Net 6 GB",
+              "amount": "6000",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1180",
+              "offer_id_sim": "",
+              "offer_id_prog": "A74355",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 7 جيجا ",
+              "name_en": "Net 7 GB",
+              "amount": "9000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1184",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69368",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 15 جيجا ",
+              "name_en": "Net 15 GB",
+              "amount": "15000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1153",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69369",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Net 3G Data-Modem",
+          "bundle_cat_name_ar": "الإنترنت 3G داتا-مودم",
+          "bundles_list": [
+            {
+              "name_ar": "نت 150 ميجا ",
+              "name_en": "Net 150 MB",
+              "amount": "500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1137",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A69378",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 300 ميجا ",
+              "name_en": "Net 300 MB",
+              "amount": "900",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1141",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A69379",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 450 ميجا ",
+              "name_en": "Net 450 MB",
+              "amount": "1300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1143",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A69380",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 700 ميجا ",
+              "name_en": "Net 700 MB",
+              "amount": "1800",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1146",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A69381",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1 جيجا ",
+              "name_en": "Net 1 GB",
+              "amount": "1400",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1139",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A74338",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1500 ميجا",
+              "name_en": "Net 1500 MB",
+              "amount": "3300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1136",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A69382",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 2 جيجا ",
+              "name_en": "Net 2 GB",
+              "amount": "2600",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1140",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A74344",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 3 جيجا ",
+              "name_en": "Net 3 GB",
+              "amount": "4500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1142",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A69383",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 4 جيجا ",
+              "name_en": "Net 4 GB",
+              "amount": "4800",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1148",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A74350",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 5 جيجا ",
+              "name_en": "Net 5 GB",
+              "amount": "7000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1144",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A69384",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 6 جيجا ",
+              "name_en": "Net 6 GB",
+              "amount": "6000",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1145",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A74356",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 7 جيجا ",
+              "name_en": "Net 7 GB",
+              "amount": "9000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1147",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A69385",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 15 جيجا ",
+              "name_en": "Net 15 GB",
+              "amount": "15000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1138",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A69386",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        }
+      ]
+    },
+    "prepaid": {
+      "query_available": 0,
+      "airtime": true,
+      "airtime_data": {
+        "gateway_id": "",
+        "brand_id": "1135"
+      },
+      "topup": [],
+      "bundles_data_sim": [
+        {
+          "bundle_cat_name_en": "Most used",
+          "bundle_cat_name_ar": "الأكثر استخداماً",
+          "bundles_list": [
+            {
+              "name_ar": "مزايا",
+              "name_en": "Mazaya ",
+              "amount": "484",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1100",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مزايا",
+              "name_en": "Mazaya ",
+              "amount": "1300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1110",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مزايا ماكس",
+              "name_en": "Mazaya Max",
+              "amount": "2000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1109",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 6 جيجا",
+              "name_en": "4G Net 6GB",
+              "amount": "2400",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1097",
+              "gateway_service_id": "",
+              "status": "false"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Mazaya",
+          "bundle_cat_name_ar": "4G مزايا",
+          "bundles_list": [
+            {
+              "name_ar": "4G مزايا",
+              "name_en": "4G Mazaya",
+              "amount": "300",
+              "duration_ar": "24 ساعة",
+              "duration_en": "24 Hour",
+              "brand_id": "1342",
+              "offer_id_sim": "A4826",
+              "offer_id_prog": "A4826",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا",
+              "name_en": "4G Mazaya",
+              "amount": "600",
+              "duration_ar": "48 ساعة",
+              "duration_en": "48 Hour",
+              "brand_id": "1346",
+              "offer_id_sim": "A88337",
+              "offer_id_prog": "A88337",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا ماكس 4 جيجا",
+              "name_en": "4G Mazaya Max 4GB",
+              "amount": "4000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1358",
+              "offer_id_sim": "A88441",
+              "offer_id_prog": "A88441",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا توفير",
+              "name_en": "4G Mazaya Tawfer 4GB",
+              "amount": "2400",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1360",
+              "offer_id_sim": "A3823",
+              "offer_id_prog": "A3823",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا 4 جيجا",
+              "name_en": "4G Mazaya 4GB",
+              "amount": "2500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1354",
+              "offer_id_sim": "A88335",
+              "offer_id_prog": "A88335",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G مزايا 2 جيجا",
+              "name_en": "4G Mazaya 2GB",
+              "amount": "1500",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1350",
+              "offer_id_sim": "A88336",
+              "offer_id_prog": "A88336",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Mazaya Plus 4G",
+          "bundle_cat_name_ar": "مزايا بلس فورجي",
+          "bundles_list": [
+            {
+              "name_ar": "مزايا بلس",
+              "name_en": "Mazaya Plus",
+              "amount": "2600",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1285",
+              "offer_id_sim": "A3823",
+              "offer_id_prog": "A3823",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مزايا ماكس بلس",
+              "name_en": "Mazaya Max Plus",
+              "amount": "4400",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1288",
+              "offer_id_sim": "A3824",
+              "offer_id_prog": "A3824",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "false"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "NET Plus 4G",
+          "bundle_cat_name_ar": "نت بلس فورجي",
+          "bundles_list": [
+            {
+              "name_ar": "نت بلس اليومية",
+              "name_en": "NET Plus Daily",
+              "amount": "750",
+              "duration_ar": "يوم",
+              "duration_en": "Day",
+              "brand_id": "1290",
+              "offer_id_sim": "A3820",
+              "offer_id_prog": "A3820",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "false"
+            },
+            {
+              "name_ar": "نت بلس الاسبوعية",
+              "name_en": "NET Plus weekly",
+              "amount": "1000",
+              "duration_ar": "الاسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1292",
+              "offer_id_sim": "A3821",
+              "offer_id_prog": "A3821",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "false"
+            },
+            {
+              "name_ar": "نت بلس الشهرية",
+              "name_en": "NET Plus monthly",
+              "amount": "2500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1294",
+              "offer_id_sim": "A3822",
+              "offer_id_prog": "A3822",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Mazaya 4G VoLTE ",
+          "bundle_cat_name_ar": "مزايا 4G فولتي",
+          "bundles_list": [
+            {
+              "name_ar": "باقة مزايا 4G فولتي",
+              "name_en": "Mazaya 4G VoLTE",
+              "amount": "2500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1356",
+              "offer_id_sim": "A4990006",
+              "offer_id_prog": "A4990006",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYM14",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "باقة مزايا 4G فولتي",
+              "name_en": "Mazaya 4G VoLTE",
+              "amount": "1500",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1352",
+              "offer_id_sim": "A4990005",
+              "offer_id_prog": "A4990005",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYM14",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "باقة مزايا 4G فولتي",
+              "name_en": "Mazaya 4G VoLTE",
+              "amount": "600",
+              "duration_ar": "يومين",
+              "duration_en": "2 Days",
+              "brand_id": "1348",
+              "offer_id_sim": "A4990004",
+              "offer_id_prog": "A4990004",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYM14",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Internet",
+          "bundle_cat_name_ar": "4G إنترنت",
+          "bundles_list": [
+            {
+              "name_ar": "4G نت 5 جيجا توفير",
+              "name_en": "4G Net 5GB Tawfer",
+              "amount": "2300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1344",
+              "offer_id_sim": "A3825",
+              "offer_id_prog": "A3825",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 7 جيجا توفير",
+              "name_en": "4G Net 7GB Tawfer",
+              "amount": "3000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1362",
+              "offer_id_sim": "A3822",
+              "offer_id_prog": "A3822",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 4 جيجا",
+              "name_en": "4G Net 4GB",
+              "amount": "2000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1364",
+              "offer_id_sim": "A4821",
+              "offer_id_prog": "A4821",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 8 جيجا",
+              "name_en": "4G Net 8GB",
+              "amount": "3900",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1366",
+              "offer_id_sim": "A4828",
+              "offer_id_prog": "A4828",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G نت 20 جيجا",
+              "name_en": "4G Net 20GB",
+              "amount": "9700",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1368",
+              "offer_id_sim": "A4830",
+              "offer_id_prog": "A4830",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Supper 4G",
+          "bundle_cat_name_ar": "سوبر 4G",
+          "bundles_list": [
+            {
+              "name_ar": "سوبر 4G",
+              "name_en": "Supper 4G",
+              "amount": "2000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1112",
+              "offer_id_sim": "A5533822",
+              "offer_id_prog": "A5533822",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYM14",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Mazaya",
+          "bundle_cat_name_ar": "مزايا",
+          "bundles_list": [
+            {
+              "name_ar": "مزايا",
+              "name_en": "Mazaya ",
+              "amount": "484",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1100",
+              "offer_id_sim": "A64329",
+              "offer_id_prog": "A64329",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYM14",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مزايا",
+              "name_en": "Mazaya ",
+              "amount": "1300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1110",
+              "offer_id_sim": "A38394",
+              "offer_id_prog": "A38394",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYM14",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مزايا ماكس",
+              "name_en": "Mazaya Max",
+              "amount": "2000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1109",
+              "offer_id_sim": "A75328",
+              "offer_id_prog": "A75328",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYM14",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Mazaya SMS",
+          "bundle_cat_name_ar": "مزايا رسائل",
+          "bundles_list": [
+            {
+              "name_ar": "مزايا رسائل 800 رسالة",
+              "name_en": "Mazaya SMS 800",
+              "amount": "1000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1264",
+              "offer_id_sim": "A31338",
+              "offer_id_prog": "A31338",
+              "offer_id_net": "",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Net 3G SIM",
+          "bundle_cat_name_ar": "الإنترنت 3G شريحة",
+          "bundles_list": [
+            {
+              "name_ar": "نت 150 ميجا ",
+              "name_en": "Net 150 MB",
+              "amount": "500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1118",
+              "offer_id_sim": "A69329",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-09",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 300 ميجا ",
+              "name_en": "Net 300 MB",
+              "amount": "900",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1125",
+              "offer_id_sim": "A69330",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-10",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 450 ميجا ",
+              "name_en": "Net 450 MB",
+              "amount": "1300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1173",
+              "offer_id_sim": "A69331",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-11",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 700 ميجا ",
+              "name_en": "Net 700 MB",
+              "amount": "1800",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1183",
+              "offer_id_sim": "A69338",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-11",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1 جيجا ",
+              "name_en": "Net 1 GB",
+              "amount": "1400",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1121",
+              "offer_id_sim": "A74331",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-01",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1500 ميجا",
+              "name_en": "Net 1500 MB",
+              "amount": "3300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1116",
+              "offer_id_sim": "A69339",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-13",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 2 جيجا ",
+              "name_en": "Net 2 GB",
+              "amount": "2600",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1123",
+              "offer_id_sim": "A74339",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-02",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 3 جيجا ",
+              "name_en": "Net 3 GB",
+              "amount": "4500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1127",
+              "offer_id_sim": "A69340",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-03",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 4 جيجا ",
+              "name_en": "Net 4 GB",
+              "amount": "4800",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1164",
+              "offer_id_sim": "A74345",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-04",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 5 جيجا ",
+              "name_en": "Net 5 GB",
+              "amount": "7000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1174",
+              "offer_id_sim": "A69341",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-05",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 6 جيجا ",
+              "name_en": "Net 6 GB",
+              "amount": "6000",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1129",
+              "offer_id_sim": "A74351",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-06",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 7 جيجا ",
+              "name_en": "Net 7 GB",
+              "amount": "9000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1131",
+              "offer_id_sim": "A69342",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-07",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 15 جيجا ",
+              "name_en": "Net 15 GB",
+              "amount": "15000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1120",
+              "offer_id_sim": "A69343",
+              "offer_id_prog": "",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-08",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Net 3G Program",
+          "bundle_cat_name_ar": "الإنترنت 3G برمجة",
+          "bundles_list": [
+            {
+              "name_ar": "نت 150 ميجا ",
+              "name_en": "Net 150 MB",
+              "amount": "500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1117",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69332",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-22",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 300 ميجا ",
+              "name_en": "Net 300 MB",
+              "amount": "900",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1124",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69336",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-23",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 450 ميجا ",
+              "name_en": "Net 450 MB",
+              "amount": "1300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1132",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69337",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-24",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 700 ميجا ",
+              "name_en": "Net 700 MB",
+              "amount": "1800",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1130",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69344",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-25",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1 جيجا ",
+              "name_en": "Net 1 GB",
+              "amount": "1400",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1155",
+              "offer_id_sim": "",
+              "offer_id_prog": "A74332",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-14",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1500 ميجا",
+              "name_en": "Net 1500 MB",
+              "amount": "3300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1115",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69345",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-26",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 2 جيجا ",
+              "name_en": "Net 2 GB",
+              "amount": "2600",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1122",
+              "offer_id_sim": "",
+              "offer_id_prog": "A74340",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-15",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 3 جيجا ",
+              "name_en": "Net 3 GB",
+              "amount": "4500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1126",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69346",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-16",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 4 جيجا ",
+              "name_en": "Net 4 GB",
+              "amount": "4800",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1163",
+              "offer_id_sim": "",
+              "offer_id_prog": "A74346",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-17",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 5 جيجا ",
+              "name_en": "Net 5 GB",
+              "amount": "7000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1133",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69347",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-18",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 6 جيجا ",
+              "name_en": "Net 6 GB",
+              "amount": "6000",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1128",
+              "offer_id_sim": "",
+              "offer_id_prog": "A74352",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-19",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 7 جيجا ",
+              "name_en": "Net 7 GB",
+              "amount": "9000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1113",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69348",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-20",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 15 جيجا ",
+              "name_en": "Net 15 GB",
+              "amount": "15000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1119",
+              "offer_id_sim": "",
+              "offer_id_prog": "A69349",
+              "offer_id_net": "",
+              "gateway_service_id": "LAYMN2-21",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Net 3G Data-Modem",
+          "bundle_cat_name_ar": "الإنترنت 3G داتا-مودم",
+          "bundles_list": [
+            {
+              "name_ar": "نت 150 ميجا ",
+              "name_en": "Net 150 MB",
+              "amount": "500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1166",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A70329",
+              "gateway_service_id": "LAYMN3-22",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 300 ميجا ",
+              "name_en": "Net 300 MB",
+              "amount": "900",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1170",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A70330",
+              "gateway_service_id": "LAYMN3-23",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 450 ميجا ",
+              "name_en": "Net 450 MB",
+              "amount": "1300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1187",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A70331",
+              "gateway_service_id": "LAYMN3-24",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 700 ميجا ",
+              "name_en": "Net 700 MB",
+              "amount": "1800",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1191",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A70332",
+              "gateway_service_id": "LAYMN3-25",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1 جيجا ",
+              "name_en": "Net 1 GB",
+              "amount": "1400",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1168",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A74337",
+              "gateway_service_id": "LAYMN3-14",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 1500 ميجا",
+              "name_en": "Net 1500 MB",
+              "amount": "3300",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1165",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A70333",
+              "gateway_service_id": "LAYMN3-26",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 2 جيجا ",
+              "name_en": "Net 2 GB",
+              "amount": "2600",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1169",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A74341",
+              "gateway_service_id": "LAYMN3-15",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 3 جيجا ",
+              "name_en": "Net 3 GB",
+              "amount": "4500",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1186",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A70334",
+              "gateway_service_id": "LAYMN3-16",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 4 جيجا ",
+              "name_en": "Net 4 GB",
+              "amount": "4800",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1188",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A74347",
+              "gateway_service_id": "LAYMN3-17",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 5 جيجا ",
+              "name_en": "Net 5 GB",
+              "amount": "7000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1189",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A70335",
+              "gateway_service_id": "LAYMN3-18",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 6 جيجا ",
+              "name_en": "Net 6 GB",
+              "amount": "6000",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "1190",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A74353",
+              "gateway_service_id": "LAYMN3-19",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 7 جيجا ",
+              "name_en": "Net 7 GB",
+              "amount": "9000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1114",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A70336",
+              "gateway_service_id": "LAYMN3-20",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 15 جيجا ",
+              "name_en": "Net 15 GB",
+              "amount": "15000",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1167",
+              "offer_id_sim": "",
+              "offer_id_prog": "",
+              "offer_id_net": "A70337",
+              "gateway_service_id": "LAYMN3-21",
+              "status": "TRUE"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "mtn": {
+    "postpaid": {
+      "query_available": 0,
+      "airtime": true,
+      "airtime_data": {
+        "gateway_id": "",
+        "brand_id": "1204"
+      },
+      "topup": [
+        {
+          "name_ar": " 1000 ريال",
+          "name_en": " 1000 YER",
+          "amount": "1210",
+          "duration_ar": "50 يوم",
+          "duration_en": "50 days",
+          "brand_id": "695",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 1250 ريال",
+          "name_en": " 1250 YER",
+          "amount": "1512.5",
+          "duration_ar": "60 يوم",
+          "duration_en": "60 days",
+          "brand_id": "267",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 2500 ريال",
+          "name_en": " 2500 YER",
+          "amount": "3025",
+          "duration_ar": "180 يوم",
+          "duration_en": "180 days",
+          "brand_id": "25",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 5000 ريال",
+          "name_en": " 5000 YER",
+          "amount": "6050",
+          "duration_ar": "365 يوم",
+          "duration_en": "365 days",
+          "brand_id": "210",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 7500 ريال",
+          "name_en": " 7500 YER",
+          "amount": "9075",
+          "duration_ar": "365 يوم",
+          "duration_en": "365 days",
+          "brand_id": "47",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 10000 ر يال",
+          "name_en": " 10000 YER",
+          "amount": "12100",
+          "duration_ar": "365 يوم",
+          "duration_en": "365 days",
+          "brand_id": "48",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        }
+      ],
+      "bundles_data": [
+        {
+          "bundle_cat_name_en": "Most used",
+          "bundle_cat_name_ar": "الأكثر استخداماً",
+          "bundles_list": [
+            {
+              "name_ar": "مكس فورجي 1.5 جيجا",
+              "name_en": "4G Mix 1.5 GB",
+              "amount": "961.95",
+              "duration_ar": "3 ايام ",
+              "duration_en": "3 days",
+              "brand_id": "1211",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس فورجي 3 جيجا",
+              "name_en": "4G Mix 3 GB",
+              "amount": "1488.3",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "ًWeekly",
+              "brand_id": "1209",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            },
+            {
+              "name_ar": "مكس فورجي 6 جيجا",
+              "name_en": "4G Mix 6 GB",
+              "amount": "3412.2",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1210",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "TOPUP",
+          "bundle_cat_name_ar": "فئات الشحن",
+          "bundles_list": [
+            {
+              "name_ar": " 1000 ريال",
+              "name_en": " 1000 YER",
+              "amount": "1210",
+              "duration_ar": "50 يوم",
+              "duration_en": "50 days",
+              "brand_id": "695",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 1250 ريال",
+              "name_en": " 1250 YER",
+              "amount": "1512.5",
+              "duration_ar": "60 يوم",
+              "duration_en": "60 days",
+              "brand_id": "267",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 2500 ريال",
+              "name_en": " 2500 YER",
+              "amount": "3025",
+              "duration_ar": "180 يوم",
+              "duration_en": "180 days",
+              "brand_id": "25",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 5000 ريال",
+              "name_en": " 5000 YER",
+              "amount": "6050",
+              "duration_ar": "365 يوم",
+              "duration_en": "365 days",
+              "brand_id": "210",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 7500 ريال",
+              "name_en": " 7500 YER",
+              "amount": "9075",
+              "duration_ar": "365 يوم",
+              "duration_en": "365 days",
+              "brand_id": "47",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 10000 ر يال",
+              "name_en": " 10000 YER",
+              "amount": "12100",
+              "duration_ar": "365 يوم",
+              "duration_en": "365 days",
+              "brand_id": "48",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Mix",
+          "bundle_cat_name_ar": "4 جي مكس",
+          "bundles_list": [
+            {
+              "name_ar": "مكس فورجي 1.5 جيجا",
+              "name_en": "4G Mix 1.5 GB",
+              "amount": "961.95",
+              "duration_ar": "3 ايام ",
+              "duration_en": "3 days",
+              "brand_id": "1211",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس فورجي 3 جيجا",
+              "name_en": "4G Mix 3 GB",
+              "amount": "1452",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "ًWeekly",
+              "brand_id": "1338",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            },
+            {
+              "name_ar": "مكس فورجي 6 جيجا",
+              "name_en": "4G Mix 6 GB",
+              "amount": "3412.2",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1210",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس فورجي 30 جيجا",
+              "name_en": "4G Mix 30 GB",
+              "amount": "14713.6",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1339",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Smart",
+          "bundle_cat_name_ar": "سمارت فورجي",
+          "bundles_list": [
+            {
+              "name_ar": "سمارت فورجي 0.5 جيجا",
+              "name_en": "4G Smart 0.5 GB",
+              "amount": "266.2",
+              "duration_ar": "اليومية",
+              "duration_en": "Daily",
+              "brand_id": "288",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 1 جيجا",
+              "name_en": "4G Smart 1 GB",
+              "amount": "484",
+              "duration_ar": "يومين",
+              "duration_en": "ً2 days",
+              "brand_id": "45",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 3 جيجا",
+              "name_en": "4G Smart 3 GB",
+              "amount": "1452",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "Weekly",
+              "brand_id": "1338",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 5 جيجا",
+              "name_en": "4G Smart 5 GB",
+              "amount": "2420",
+              "duration_ar": "14 يوم",
+              "duration_en": "14 days",
+              "brand_id": "52",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 8 جيجا",
+              "name_en": "4G Smart 8 GB",
+              "amount": "3484.8",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "53",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 17 جيجا",
+              "name_en": "4G Smart 17 GB",
+              "amount": "6788.1",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "62",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Waffer",
+          "bundle_cat_name_ar": "وفر فورجي",
+          "bundles_list": [
+            {
+              "name_ar": "مكس وفر 55 جيجا فورجي",
+              "name_en": "4G Mix Waffer 55 GB",
+              "amount": "19844",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1246",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            },
+            {
+              "name_ar": "سمارت وفر 9جيجا فورجي",
+              "name_en": "4G Smart Waffer 9 GB",
+              "amount": "3484.8",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1340",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "وفر بلس 10جيجا فورجي",
+              "name_en": "4G Waffer Plus 10 GB",
+              "amount": "2499.86",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1315",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Sawa",
+          "bundle_cat_name_ar": "سوا",
+          "bundles_list": [
+            {
+              "name_ar": "سوا  250",
+              "name_en": "Sawa 250",
+              "amount": "1815",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "176",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوا  مكس",
+              "name_en": "Sawa Mix",
+              "amount": "4235",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "177",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Smart net",
+          "bundle_cat_name_ar": "سمارت نت",
+          "bundles_list": [
+            {
+              "name_ar": "سمارت 2 جيجا",
+              "name_en": "Smart 2 GB",
+              "amount": "1210",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "10",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت 500 ميجا",
+              "name_en": " Smart 500 MB",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "278",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Mix",
+          "bundle_cat_name_ar": "مكس",
+          "bundles_list": [
+            {
+              "name_ar": "مكس بلس ",
+              "name_en": " Mix Plus",
+              "amount": "1512.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "209",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Voice",
+          "bundle_cat_name_ar": "الإتصال",
+          "bundles_list": [
+            {
+              "name_ar": "600 دقيقة ",
+              "name_en": " 600 Minutes",
+              "amount": "1004.3",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weakly",
+              "brand_id": "677",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "400 دقيقة ",
+              "name_en": " 400 Minutes",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "131",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Social",
+          "bundle_cat_name_ar": "التواصل الإجتماعي",
+          "bundles_list": [
+            {
+              "name_ar": "توفير",
+              "name_en": "Tawfeer",
+              "amount": "496.1",
+              "duration_ar": "اليومية",
+              "duration_en": "daily",
+              "brand_id": "132",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "وتساب بلا حدود ",
+              "name_en": "unlimited  whatsapp",
+              "amount": "484",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weakly",
+              "brand_id": "269",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "SMS",
+          "bundle_cat_name_ar": "الرسائل",
+          "bundles_list": [
+            {
+              "name_ar": "750 SMS",
+              "name_en": "750 رسالة",
+              "amount": "1210",
+              "duration_ar": "",
+              "duration_en": "",
+              "brand_id": "161",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        }
+      ]
+    },
+    "prepaid": {
+      "query_available": 0,
+      "airtime": true,
+      "airtime_data": {
+        "gateway_id": "",
+        "brand_id": "1204"
+      },
+      "topup": [
+        {
+          "name_ar": "410 ريال",
+          "name_en": "410 YER",
+          "amount": "496.1",
+          "duration_ar": "7 أيام",
+          "duration_en": "7 days ",
+          "brand_id": "282",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "830 ريال",
+          "name_en": "830 YER",
+          "amount": "1004.3",
+          "duration_ar": "40 يوم",
+          "duration_en": "40 days",
+          "brand_id": "308",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 1000 ريال",
+          "name_en": " 1000 YER",
+          "amount": "1210",
+          "duration_ar": "50 يوم",
+          "duration_en": "50 days",
+          "brand_id": "695",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 1250 ريال",
+          "name_en": " 1250 YER",
+          "amount": "1512.5",
+          "duration_ar": "60 يوم",
+          "duration_en": "60 days",
+          "brand_id": "267",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 2500 ريال",
+          "name_en": " 2500 YER",
+          "amount": "3025",
+          "duration_ar": "180 يوم",
+          "duration_en": "180 days",
+          "brand_id": "25",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 5000 ريال",
+          "name_en": " 5000 YER",
+          "amount": "6050",
+          "duration_ar": "365 يوم",
+          "duration_en": "365 days",
+          "brand_id": "210",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 7500 ريال",
+          "name_en": " 7500 YER",
+          "amount": "9075",
+          "duration_ar": "365 يوم",
+          "duration_en": "365 days",
+          "brand_id": "47",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": " 10000 ر يال",
+          "name_en": " 10000 YER",
+          "amount": "12100",
+          "duration_ar": "365 يوم",
+          "duration_en": "365 days",
+          "brand_id": "48",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        }
+      ],
+      "bundles_data": [
+        {
+          "bundle_cat_name_en": "Most used",
+          "bundle_cat_name_ar": "الأكثر استخداماً",
+          "bundles_list": [
+            {
+              "name_ar": "مكس 300 ",
+              "name_en": " Mix 300",
+              "amount": "1249.93",
+              "duration_ar": "الشهرية",
+              "duration_en": "Monthly",
+              "brand_id": "279",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس فورجي 1.5 جيجا",
+              "name_en": "4G Mix 1.5 GB",
+              "amount": "961.95",
+              "duration_ar": "3 ايام",
+              "duration_en": "3 days",
+              "brand_id": "1211",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس فورجي 6 جيجا",
+              "name_en": "4G Mix 6 GB",
+              "amount": "3412.2",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1210",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس 400",
+              "name_en": " Mix 400",
+              "amount": "496.1",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "Weekly",
+              "brand_id": "281",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "TOPUP",
+          "bundle_cat_name_ar": "فئات الشحن",
+          "bundles_list": [
+            {
+              "name_ar": "410 ريال",
+              "name_en": "410 YER",
+              "amount": "496.1",
+              "duration_ar": "7 أيام",
+              "duration_en": "7 days ",
+              "brand_id": "282",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "830 ريال",
+              "name_en": "830 YER",
+              "amount": "1004.3",
+              "duration_ar": "40 يوم",
+              "duration_en": "40 days",
+              "brand_id": "308",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 1000 ريال",
+              "name_en": " 1000 YER",
+              "amount": "1210",
+              "duration_ar": "50 يوم",
+              "duration_en": "50 days",
+              "brand_id": "695",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 1250 ريال",
+              "name_en": " 1250 YER",
+              "amount": "1512.5",
+              "duration_ar": "60 يوم",
+              "duration_en": "60 days",
+              "brand_id": "267",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 2500 ريال",
+              "name_en": " 2500 YER",
+              "amount": "3025",
+              "duration_ar": "180 يوم",
+              "duration_en": "180 days",
+              "brand_id": "25",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 5000 ريال",
+              "name_en": " 5000 YER",
+              "amount": "6050",
+              "duration_ar": "365 يوم",
+              "duration_en": "365 days",
+              "brand_id": "210",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 7500 ريال",
+              "name_en": " 7500 YER",
+              "amount": "9075",
+              "duration_ar": "365 يوم",
+              "duration_en": "365 days",
+              "brand_id": "47",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 10000 ر يال",
+              "name_en": " 10000 YER",
+              "amount": "12100",
+              "duration_ar": "365 يوم",
+              "duration_en": "365 days",
+              "brand_id": "48",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Mix",
+          "bundle_cat_name_ar": "4 جي مكس",
+          "bundles_list": [
+            {
+              "name_ar": "مكس فورجي 1.5 جيجا",
+              "name_en": "4G Mix 1.5 GB",
+              "amount": "961.95",
+              "duration_ar": "3 ايام",
+              "duration_en": "3 days",
+              "brand_id": "1211",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس فورجي 3 جيجا",
+              "name_en": "4G Mix 3 GB",
+              "amount": "1488.3",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "ًWeekly",
+              "brand_id": "1209",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            },
+            {
+              "name_ar": "مكس فورجي 6 جيجا",
+              "name_en": "4G Mix 6 GB",
+              "amount": "3412.2",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1210",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس فورجي 30 جيجا",
+              "name_en": "4G Mix 30 GB",
+              "amount": "14713.6",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1339",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Smart",
+          "bundle_cat_name_ar": "سمارت فورجي",
+          "bundles_list": [
+            {
+              "name_ar": "سمارت فورجي 0.5 جيجا",
+              "name_en": "4G Smart 0.5 GB",
+              "amount": "266.2",
+              "duration_ar": "اليومية",
+              "duration_en": "Daily",
+              "brand_id": "288",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 1 جيجا",
+              "name_en": "4G Smart 1 GB",
+              "amount": "484",
+              "duration_ar": "يومين",
+              "duration_en": "ً2 days",
+              "brand_id": "45",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 3 جيجا",
+              "name_en": "4G Smart 3 GB",
+              "amount": "1452",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "Weekly",
+              "brand_id": "1338",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 5 جيجا",
+              "name_en": "4G Smart 5 GB",
+              "amount": "2420",
+              "duration_ar": "14 يوم",
+              "duration_en": "14 days",
+              "brand_id": "52",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 8 جيجا",
+              "name_en": "4G Smart 8 GB",
+              "amount": "3484.8",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "53",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت فورجي 17 جيجا",
+              "name_en": "4G Smart 17 GB",
+              "amount": "6788.1",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "62",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Waffer",
+          "bundle_cat_name_ar": "وفر فورجي",
+          "bundles_list": [
+            {
+              "name_ar": "مكس وفر 55 جيجا فورجي",
+              "name_en": "4G Mix Waffer 55 GB",
+              "amount": "19844",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1246",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            },
+            {
+              "name_ar": "سمارت وفر 9جيجا فورجي",
+              "name_en": "4G Smart Waffer 9 GB",
+              "amount": "3484.8",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1340",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "وفر بلس 10جيجا فورجي",
+              "name_en": "4G Waffer Plus 10 GB",
+              "amount": "2499.86",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1315",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Sawa",
+          "bundle_cat_name_ar": "سوا",
+          "bundles_list": [
+            {
+              "name_ar": "سوا  250",
+              "name_en": "Sawa 250",
+              "amount": "1815",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "176",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوا  مكس",
+              "name_en": "Sawa Mix",
+              "amount": "4235",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "177",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Smart Net",
+          "bundle_cat_name_ar": "سمارت نت",
+          "bundles_list": [
+            {
+              "name_ar": "سمارت 2 جيجا",
+              "name_en": "Smart 2 GB",
+              "amount": "1210",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "10",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سمارت 500 ميجا  ",
+              "name_en": " Smart 500 MB",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "277",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Mix",
+          "bundle_cat_name_ar": "مكس",
+          "bundles_list": [
+            {
+              "name_ar": "مكس 400",
+              "name_en": " Mix 400",
+              "amount": "496.1",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "Weekly",
+              "brand_id": "281",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس بلس ",
+              "name_en": " Mix Plus",
+              "amount": "1512.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "209",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس 300 ",
+              "name_en": " Mix 300",
+              "amount": "1249.93",
+              "duration_ar": "الشهرية",
+              "duration_en": "Monthly",
+              "brand_id": "279",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "مكس 600 ",
+              "name_en": " Mix 600",
+              "amount": "2420",
+              "duration_ar": "الشهرية",
+              "duration_en": "Monthly",
+              "brand_id": "280",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Voic",
+          "bundle_cat_name_ar": "الإتصال",
+          "bundles_list": [
+            {
+              "name_ar": "600 دقيقة ",
+              "name_en": " 600 Minutes",
+              "amount": "1004.3",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weakly",
+              "brand_id": "677",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "400 دقيقة ",
+              "name_en": " 400 Minutes",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "131",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Social",
+          "bundle_cat_name_ar": "التواصل الإجتماعي",
+          "bundles_list": [
+            {
+              "name_ar": "توفير ",
+              "name_en": "Tawfeer",
+              "amount": "496.1",
+              "duration_ar": "اليومية",
+              "duration_en": "daily",
+              "brand_id": "132",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "وتساب بلا حدود ",
+              "name_en": " unlimited whatsapp",
+              "amount": "484",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "269",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "SMS",
+          "bundle_cat_name_ar": "الرسائل",
+          "bundles_list": [
+            {
+              "name_ar": "750 SMS",
+              "name_en": "750 رسالة",
+              "amount": "1210",
+              "duration_ar": "",
+              "duration_en": "",
+              "brand_id": "161",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sabafone": {
+    "postpaid": {
+      "query_available": 0,
+      "airtime": true,
+      "airtime_data": {
+        "gateway_id": "yp027",
+        "brand_id": "79"
+      },
+      "topup": [],
+      "bundles_data": [
+        {
+          "bundle_cat_name_en": "Most used",
+          "bundle_cat_name_ar": "الأكثر استخداماً",
+          "bundles_list": [
+            {
+              "name_ar": "نت 250 ميجا",
+              "name_en": "Net 250 MB",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "508",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "نت 500 ميجا",
+              "name_en": "Net 500 MB",
+              "amount": "1815",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "158",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " جي إس إم ",
+              "name_en": "GSM",
+              "amount": "1936",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "318",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "يا بلاش",
+              "name_en": "Yabalash",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "320",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G  Inter ",
+          "bundle_cat_name_ar": "أنتر فورجي  ",
+          "bundles_list": [
+            {
+              "name_ar": "أنتر اليومية",
+              "name_en": "4G Inter Daily",
+              "amount": "500",
+              "duration_ar": "اليومية",
+              "duration_en": "daily",
+              "brand_id": "1328",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر الاسبوعية ",
+              "name_en": "4G Inter Weekly",
+              "amount": "990",
+              "duration_ar": "الاسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1329",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر 4 فورجي 4 جيجا",
+              "name_en": "4G Inter 4 GB",
+              "amount": "1940",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1330",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر  فورجي 6 جيجا",
+              "name_en": "4G Inter 6 GB",
+              "amount": "2260",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1331",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر  فورجي 7 جيجا",
+              "name_en": "4G Inter 7 GB",
+              "amount": "3420",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1332",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر فورجي  12 جيجا",
+              "name_en": "4G Inter 12 GB",
+              "amount": "4520",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1333",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر ليالي",
+              "name_en": "4G Inter Layaly",
+              "amount": "944",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "13334",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر  فورجي 20 جيجا",
+              "name_en": "4G Inter 20 GB",
+              "amount": "7840",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1236",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Hybird",
+          "bundle_cat_name_ar": "4G  هايبرد",
+          "bundles_list": [
+            {
+              "name_ar": "4G هايبرد بلاس",
+              "name_en": "4G Hybird Plus",
+              "amount": "3350",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1337",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Safari",
+          "bundle_cat_name_ar": "4G  سفري",
+          "bundles_list": [
+            {
+              "name_ar": "4G سفري",
+              "name_en": "4G Safari",
+              "amount": "193.6",
+              "duration_ar": "4 ساعات",
+              "duration_en": "4 hours",
+              "brand_id": "1335",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G سفري",
+              "name_en": "4G Safari",
+              "amount": "290.4",
+              "duration_ar": "8 ساعات",
+              "duration_en": "8 hours",
+              "brand_id": "1336",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Super Net",
+          "bundle_cat_name_ar": "سوبر نت",
+          "bundles_list": [
+            {
+              "name_ar": "سوبر نت 150 ميجا- 40 وحدة  ",
+              "name_en": "Super Net 150 MB- 40 units",
+              "amount": "484",
+              "duration_ar": "اليومية",
+              "duration_en": "daily",
+              "brand_id": "156",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوبر نت 250 ميجا- 100 وحدة",
+              "name_en": "Super Net 250 MB-100 units",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "508",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوبر نت 500 ميجا- 150 وحدة",
+              "name_en": "super Net 500 MB-150 units",
+              "amount": "1815",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "158",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوبر نت 1000 ميجا- 250 وحدة",
+              "name_en": "Super Net 1000 MB-250 units",
+              "amount": "3025",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "159",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوبر نت 4000 ميجا- 400 وحدة",
+              "name_en": "Super Net 4000 MB-400 units",
+              "amount": "4840",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "34",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Yabalash",
+          "bundle_cat_name_ar": "يا بلاش",
+          "bundles_list": [
+            {
+              "name_ar": "يا بلاش بلاس",
+              "name_en": "Yabalash plus",
+              "amount": "1515.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "323",
+              "gateway_service_id": "",
+              "status": "false"
+            },
+            {
+              "name_ar": "يابلاش سوبر بلاس",
+              "name_en": "Yabalash super plus",
+              "amount": "3025",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "319",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "يا بلاش",
+              "name_en": "Yabalash",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "320",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "يا بلاش كلام",
+              "name_en": "Yabalash Kallam",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "507",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "GSM",
+          "bundle_cat_name_ar": "جي إس إم",
+          "bundles_list": [
+            {
+              "name_ar": "جي إس إم-160 وحدة ",
+              "name_en": "GSM-160 units",
+              "amount": "1936",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "318",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "WhatsApp",
+          "bundle_cat_name_ar": "واتساب",
+          "bundles_list": [
+            {
+              "name_ar": "وتساب",
+              "name_en": " WhatsApp",
+              "amount": "484",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "657",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "واتساب بلس100 وحدة",
+              "name_en": "WhatsApp Plus 100 units",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "40",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Facebook + Twitter",
+          "bundle_cat_name_ar": "فيسبوك + تويتر",
+          "bundles_list": [
+            {
+              "name_ar": "فيسبوك + تويتر",
+              "name_en": "Facebook + Twitter ",
+              "amount": "484",
+              "duration_ar": "الاسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "33",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "فيسبوك بلس",
+              "name_en": "Facebook Plus",
+              "amount": "1089",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "28",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Tawasol",
+          "bundle_cat_name_ar": "تواصل",
+          "bundles_list": [
+            {
+              "name_ar": "تواصل",
+              "name_en": "Tawasol",
+              "amount": "1996.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "104",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "تواصل اكسترا",
+              "name_en": "Extra Tawsol",
+              "amount": "1028.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "109",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "SMS",
+          "bundle_cat_name_ar": "الرسائل",
+          "bundles_list": [
+            {
+              "name_ar": "200 رسالة",
+              "name_en": "200 SMS ",
+              "amount": "484",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "698",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "600 رسالة ",
+              "name_en": "600 SMS ",
+              "amount": "726",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "322",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Bundle ONE",
+          "bundle_cat_name_ar": "باقة واحد",
+          "bundles_list": [
+            {
+              "name_ar": "باقة واحد ",
+              "name_en": "Bundle ONE",
+              "amount": "1512.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "Monthly",
+              "brand_id": "1208",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Sabanet - SIM",
+          "bundle_cat_name_ar": "شرائح - سبأ نت",
+          "bundles_list": [
+            {
+              "name_ar": "سبأ نت 400 ميجا- 125 وحدة",
+              "name_en": "Sabanet 400 MB- 125 units",
+              "amount": "1512.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "916",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " سبأ نت 1200 ميجا- 240 وحدة",
+              "name_en": "Sabanet 1200 MB- 240 units",
+              "amount": "2904",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "917",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سبأ نت 3500 ميجا- 350 وحدة",
+              "name_en": "Sabanet 3500 MB- 350 units",
+              "amount": "4235",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "918",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        }
+      ]
+    },
+    "prepaid": {
+      "query_available": 0,
+      "airtime": false,
+      "airtime_data": {
+        "gateway_id": "",
+        "brand_id": ""
+      },
+      "topup": [
+        {
+          "name_ar": "22.5 وحدة",
+          "name_en": "22.5 units",
+          "amount": "272.25",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "40 وحدة",
+          "name_en": "40 units",
+          "amount": "484",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "45 وحدة",
+          "name_en": "45 units",
+          "amount": "544.5",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "60 وحدة",
+          "name_en": "60 units",
+          "amount": "726",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "83 وحدة",
+          "name_en": "83 units",
+          "amount": "991.85",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "false"
+        },
+        {
+          "name_ar": "85 وحدة",
+          "name_en": "85 units",
+          "amount": "1028.5",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "100 وحدة",
+          "name_en": "100 units",
+          "amount": "1210",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "125 وحدة",
+          "name_en": "125 units",
+          "amount": "1512.5",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "150 وحدة",
+          "name_en": "150 units",
+          "amount": "1815",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "209 وحدة",
+          "name_en": "209 units",
+          "amount": "2528.9",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "300 وحدة",
+          "name_en": "300 units",
+          "amount": "3630",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "505 وحدة",
+          "name_en": "505 units",
+          "amount": "6110.5",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "1270 وحدة",
+          "name_en": "1270 units",
+          "amount": "15367",
+          "brand_id": "76",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        }
+      ],
+      "bundles_data": [
+        {
+          "bundle_cat_name_en": "Most used",
+          "bundle_cat_name_ar": "الأكثر استخداماً",
+          "bundles_list": [
+            {
+              "name_ar": "سوبر نت 250 ميجا- 100 وحدة",
+              "name_en": "Super Net 250 MB-100 units",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "292",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "يا بلاش بلاس-125 وحدة",
+              "name_en": "Yabalash plus-125 units",
+              "amount": "1512.5",
+              "brand_id": "63",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "gateway_service_id": "",
+              "status": "false"
+            },
+            {
+              "name_ar": "يا بلاش كلام - 100 وحدة",
+              "name_en": "Yabalash Kalam-100 units",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "51",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G  Inter",
+          "bundle_cat_name_ar": "أنتر  فورجي",
+          "bundles_list": [
+            {
+              "name_ar": "أنتر  فورجي اليومية",
+              "name_en": "4G Inter Daily",
+              "amount": "500",
+              "duration_ar": "اليومية",
+              "duration_en": "daily",
+              "brand_id": "1317",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر  فورجي الاسبوعية",
+              "name_en": "4G Inter Weekly",
+              "amount": "990",
+              "duration_ar": "الاسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1318",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر  فورجي 4 جيجا",
+              "name_en": "4G Inter 4 GB",
+              "amount": "1940",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1319",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر  فورجي 6 جيجا",
+              "name_en": "4G Inter 6 GB",
+              "amount": "2260",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1320",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر  فورجي 7 جيجا",
+              "name_en": "4G Inter 7 GB",
+              "amount": "3420",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1321",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر فورجي 10 جيجا-125.6 وحدة",
+              "name_en": "4G Inter 10 GB-125.6 units",
+              "amount": "1519.76",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "979",
+              "gateway_service_id": "",
+              "status": "FALSE"
+            },
+            {
+              "name_ar": "أنتر  فورجي 12 جيجا",
+              "name_en": "4G Inter 12 GB",
+              "amount": "4520",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1322",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "أنتر  فورجي ليالي",
+              "name_en": "4G Inter Layaly",
+              "amount": "944",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1323",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Hybird",
+          "bundle_cat_name_ar": "4G  هايبرد",
+          "bundles_list": [
+            {
+              "name_ar": "4G هايبرد",
+              "name_en": "4G Hybird",
+              "amount": "1400",
+              "duration_ar": "الاسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1326",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " 4G هايبرد بلس",
+              "name_en": "4G Hybird Plus",
+              "amount": "3350",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1327",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "4G Safari",
+          "bundle_cat_name_ar": "4G  سفري",
+          "bundles_list": [
+            {
+              "name_ar": "4G سفري",
+              "name_en": "4G Safari",
+              "amount": "193.6",
+              "duration_ar": "4 ساعات",
+              "duration_en": "4 hours",
+              "brand_id": "1324",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "4G سفري",
+              "name_en": "4G Safari",
+              "amount": "290.4",
+              "duration_ar": "8 ساعات",
+              "duration_en": "8 hours",
+              "brand_id": "1325",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Super Net",
+          "bundle_cat_name_ar": "سوبر نت",
+          "bundles_list": [
+            {
+              "name_ar": "سوبر نت 150 ميجا- 40 وحدة ",
+              "name_en": "Super Net 150 MB- 40 units",
+              "amount": "484",
+              "duration_ar": "اليومية",
+              "duration_en": "daily",
+              "brand_id": "41",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوبر نت 250 ميجا- 100 وحدة",
+              "name_en": "Super Net 250 MB-100 units",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "292",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوبر نت 500 ميجا- 150 وحدة",
+              "name_en": "super Net 500 MB-150 units",
+              "amount": "1815",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "23",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوبر نت 1000 ميجا- 250 وحدة",
+              "name_en": "Super Net 1000 MB-250 units",
+              "amount": "3025",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "656",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سوبر نت 4000 ميجا- 400 وحدة",
+              "name_en": "Super Net 4000 MB-400 units",
+              "amount": "4840",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "20",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": " Yabalash",
+          "bundle_cat_name_ar": "يابلاش",
+          "bundles_list": [
+            {
+              "name_ar": "يا بلاش - 47.5 وحدة",
+              "name_en": "daily Yabalash-47.5 units",
+              "amount": "574.75",
+              "duration_ar": "اليومية",
+              "duration_en": "daily",
+              "brand_id": "46",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "يا بلاش - 40 وحدة ",
+              "name_en": " Yabalash-40 units",
+              "amount": "484",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "658",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "يا بلاش 10 - 70 وحدة",
+              "name_en": "Yabalash 10 -70 units",
+              "amount": "847",
+              "duration_ar": "10 ايام",
+              "duration_en": "10 days",
+              "brand_id": "229",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "يا بلاش - 100 وحدة ",
+              "name_en": " Yabalash-100 units",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "43",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "يا بلاش كلام - 100 وحدة ",
+              "name_en": "Yabalash Kallam400-100 units",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "51",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "يا بلاش بلاس-125 وحدة",
+              "name_en": "Yabalash plus-125 units",
+              "amount": "1512.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "63",
+              "gateway_service_id": "",
+              "status": "false"
+            },
+            {
+              "name_ar": "يا بلاش سوبر بلاس-250 وحدة",
+              "name_en": "Yabalash super plus-250 units",
+              "amount": "3025",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "42",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": " GSM",
+          "bundle_cat_name_ar": "جي إس إم",
+          "bundles_list": [
+            {
+              "name_ar": "جي إس إم-160 وحدة",
+              "name_en": "GSM-160 units",
+              "amount": "1936",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "661",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "WhatsApp",
+          "bundle_cat_name_ar": "واتساب",
+          "bundles_list": [
+            {
+              "name_ar": "وتساب - 40 وحدة",
+              "name_en": "WhatsApp-40 units",
+              "amount": "484",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "weakly",
+              "brand_id": "24",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "وتساب بلس- 130 وحدة",
+              "name_en": "WhatsApp Plus-130 units",
+              "amount": "1573",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "293",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Facebook + Twitter",
+          "bundle_cat_name_ar": "فيسبوك + تويتر",
+          "bundles_list": [
+            {
+              "name_ar": "فيسبوك + تويتر - 40 وحدة",
+              "name_en": " Facebook + Twitter-40 units",
+              "amount": "484",
+              "duration_ar": "الاسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "21",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "فيسبوك بلس- 100 وحدة",
+              "name_en": "Facebook Plus-100 units",
+              "amount": "1210",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "50",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Tawasol",
+          "bundle_cat_name_ar": "تواصل",
+          "bundles_list": [
+            {
+              "name_ar": "تواصل - 165 وحدة ",
+              "name_en": "Tawasol-165 units",
+              "amount": "1996.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "57",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "تواصل اكسترا-85 وحدة",
+              "name_en": "Tawasol Extra-85 units",
+              "amount": "1028.5",
+              "duration_ar": "14 يوم",
+              "duration_en": "14 Days",
+              "brand_id": "302",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "SMS",
+          "bundle_cat_name_ar": "الرسائل",
+          "bundles_list": [
+            {
+              "name_ar": "200 رسالة - 40 وحدة",
+              "name_en": "200 SMS-40 units",
+              "amount": "484",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "301",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "600 رسالة - 60 وحدة",
+              "name_en": "600 SMS-60 units",
+              "amount": "726",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "71",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Bundle ONE",
+          "bundle_cat_name_ar": "باقة واحد",
+          "bundles_list": [
+            {
+              "name_ar": "باقة واحد 42 وحدة",
+              "name_en": "Bundle ONE-42 units",
+              "amount": "508.2",
+              "duration_ar": "اليومية",
+              "duration_en": "Daily",
+              "brand_id": "1206",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "باقة واحد 67 وحدة",
+              "name_en": "Bundle ONE-67 units",
+              "amount": "810.7",
+              "duration_ar": "الأسبوعية",
+              "duration_en": "Weekly",
+              "brand_id": "977",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "باقة واحد 125 وحدة",
+              "name_en": "Bundle ONE-125 units",
+              "amount": "1512.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "Monthly",
+              "brand_id": "1207",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Sabanet - SIM",
+          "bundle_cat_name_ar": "شرائح - سبأ نت",
+          "bundles_list": [
+            {
+              "name_ar": "سبأ نت 400 ميجا- 125 وحدة",
+              "name_en": "Sabanet 400 MB- 125 units",
+              "amount": "1512.5",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "916",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": " سبأ نت 1200 ميجا- 240 وحدة",
+              "name_en": "Sabanet 1200 MB- 240 units",
+              "amount": "2904",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "917",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "سبأ نت 350 ميجا- 350 وحدة",
+              "name_en": "Sabanet 3500 MB- 350 units",
+              "amount": "4235",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "918",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "y": {
+    "postpaid": {
+      "query_available": 0,
+      "airtime": false,
+      "airtime_data": {
+        "gateway_id": "",
+        "brand_id": ""
+      },
+      "topup": [
+        {
+          "name_ar": "180 ريال",
+          "name_en": "180 YER",
+          "amount": "217.8",
+          "brand_id": "528",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "500 ريال",
+          "name_en": "500 YER",
+          "amount": "605",
+          "brand_id": "528",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "900 ريال",
+          "name_en": "900 YER",
+          "amount": "1089",
+          "brand_id": "528",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "2000 ريال",
+          "name_en": "2000 YER",
+          "amount": "2420",
+          "brand_id": "528",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        }
+      ],
+      "bundles_data": []
+    },
+    "prepaid": {
+      "query_available": 0,
+      "airtime": false,
+      "airtime_data": {
+        "gateway_id": "",
+        "brand_id": ""
+      },
+      "topup": [
+        {
+          "name_ar": "180 ريال",
+          "name_en": "180 YER",
+          "amount": "217.8",
+          "brand_id": "528",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "500 ريال",
+          "name_en": "500 YER",
+          "amount": "605",
+          "brand_id": "528",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "900 ريال",
+          "name_en": "900 YER",
+          "amount": "1089",
+          "brand_id": "528",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        },
+        {
+          "name_ar": "2000 ريال",
+          "name_en": "2000 YER",
+          "amount": "2420",
+          "brand_id": "528",
+          "gateway_service_id": "",
+          "status": "TRUE"
+        }
+      ],
+      "bundles_data": [
+        {
+          "bundle_cat_name_en": "Most used",
+          "bundle_cat_name_ar": "الأكثر استخداماً",
+          "bundles_list": [
+            {
+              "name_ar": "كرم 500",
+              "name_en": "Karm 500",
+              "amount": "605",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1250",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "كرم 900",
+              "name_en": "Karm 900",
+              "amount": "1089",
+              "duration_ar": "45 يوم",
+              "duration_en": "45 Days",
+              "brand_id": "1251",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "الو 250",
+              "name_en": "Allo 250",
+              "amount": "302.5",
+              "duration_ar": "7 ايام",
+              "duration_en": "weekly",
+              "brand_id": "1269",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "الو 1000",
+              "name_en": "Allo 1000",
+              "amount": "1210",
+              "duration_ar": "30 يوم",
+              "duration_en": "30 Days",
+              "brand_id": "1271",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Karm",
+          "bundle_cat_name_ar": "كرم",
+          "bundles_list": [
+            {
+              "name_ar": "كرم 250",
+              "name_en": "Karm 250",
+              "amount": "302.5",
+              "duration_ar": "الاسبوعية",
+              "duration_en": "weekly",
+              "brand_id": "1249",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "كرم 500",
+              "name_en": "Karm 500",
+              "amount": "605",
+              "duration_ar": "الشهرية",
+              "duration_en": "monthly",
+              "brand_id": "1250",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "كرم 900",
+              "name_en": "Karm 900",
+              "amount": "1089",
+              "duration_ar": "45 يوم",
+              "duration_en": "45 Days",
+              "brand_id": "1251",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "كرم 2000",
+              "name_en": "Karm 2000",
+              "amount": "2420",
+              "duration_ar": "شهرين",
+              "duration_en": "Two months",
+              "brand_id": "1248",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        },
+        {
+          "bundle_cat_name_en": "Allo",
+          "bundle_cat_name_ar": "الو",
+          "bundles_list": [
+            {
+              "name_ar": "الو 250",
+              "name_en": "Allo 250",
+              "amount": "302.5",
+              "duration_ar": "7 ايام",
+              "duration_en": "weekly",
+              "brand_id": "1269",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "الو 500",
+              "name_en": "Allo 500",
+              "amount": "605",
+              "duration_ar": "14 يوم",
+              "duration_en": "monthly",
+              "brand_id": "1270",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "الو 1000",
+              "name_en": "Allo 1000",
+              "amount": "1210",
+              "duration_ar": "30 يوم",
+              "duration_en": "30 Days",
+              "brand_id": "1271",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            },
+            {
+              "name_ar": "الو 2000",
+              "name_en": "Allo 2000",
+              "amount": "2420",
+              "duration_ar": "60 يوم",
+              "duration_en": "60 Days",
+              "brand_id": "1272",
+              "gateway_service_id": "",
+              "status": "TRUE"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

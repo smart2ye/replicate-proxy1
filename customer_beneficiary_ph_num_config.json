@@ -1,0 +1,114 @@
+{
+  "internet":{
+    "max_length":9,
+    "prefix":[
+      "77",
+      "78",
+      "71",
+      "73",
+      "70"
+    ],
+    "hint_en":"7 _ _ _ _ _ _ _ _",
+    "hint_ar":"_ _ _ _ _ _ _ _ 7",
+    "label_en":"Beneficiary's Mobile Number",
+    "label_ar":"رقم موبايل المستفيد",
+    "is_optional":true,
+    "is_enabled":false
+  },
+  "landline":{
+    "max_length":9,
+    "prefix":[
+      "77",
+      "78",
+      "71",
+      "73",
+      "70"
+    ],
+    "hint_en":"7 _ _ _ _ _ _ _ _",
+    "hint_ar":"_ _ _ _ _ _ _ _ 7",
+    "label_en":"Beneficiary's Mobile Number",
+    "label_ar":"رقم موبايل المستفيد",
+    "is_optional":true,
+    "is_enabled":false
+  },
+  "electricity":{
+    "max_length":9,
+    "prefix":[
+      "77",
+      "78",
+      "71",
+      "73",
+      "70"
+    ],
+    "hint_en":"7 _ _ _ _ _ _ _ _",
+    "hint_ar":"_ _ _ _ _ _ _ _ 7",
+    "label_en":"Beneficiary's Mobile Number",
+    "label_ar":"رقم موبايل المستفيد",
+    "is_optional":true,
+    "is_enabled":false
+  },
+  "water":{
+    "max_length":9,
+    "prefix":[
+      "77",
+      "78",
+      "71",
+      "73",
+      "70"
+    ],
+    "hint_en":"7 _ _ _ _ _ _ _ _",
+    "hint_ar":"_ _ _ _ _ _ _ _ 7",
+    "label_en":"Beneficiary's Mobile Number",
+    "label_ar":"رقم موبايل المستفيد",
+    "is_optional":true,
+    "is_enabled":false
+  },
+  "university":{
+    "max_length":9,
+    "prefix":[
+      "77",
+      "78",
+      "71",
+      "73",
+      "70"
+    ],
+    "hint_en":"7 _ _ _ _ _ _ _ _",
+    "hint_ar":"_ _ _ _ _ _ _ _ 7",
+    "label_en":"Beneficiary's Mobile Number",
+    "label_ar":"رقم موبايل المستفيد",
+    "is_optional":true,
+    "is_enabled":false
+  },
+  "traffic":{
+    "max_length":9,
+    "prefix":[
+      "77",
+      "78",
+      "71",
+      "73",
+      "70"
+    ],
+    "hint_en":"7 _ _ _ _ _ _ _ _",
+    "hint_ar":"_ _ _ _ _ _ _ _ 7",
+    "label_en":"Beneficiary's Mobile Number",
+    "label_ar":"رقم موبايل المستفيد",
+    "is_optional":true,
+    "is_enabled":false
+  },
+  "cement":{
+    "max_length":9,
+    "prefix":[
+      "77",
+      "78",
+      "71",
+      "73",
+      "70"
+    ],
+    "hint_en":"7 _ _ _ _ _ _ _ _",
+    "hint_ar":"_ _ _ _ _ _ _ _ 7",
+    "label_en":"Beneficiary's Mobile",
+    "label_ar":"رقم موبايل المستفيد",
+    "is_optional":true,
+    "is_enabled":true
+  }
+}

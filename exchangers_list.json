@@ -1,0 +1,27 @@
+[
+  {
+    "name_ar": "شركة الحوشبي للصرافة",
+    "name_en": "Al-Hawshabi Exchange CO",
+    "agent_msisdn": "HP",
+    "logo_url": "https://ma.onecash.com.ye:7060/d/hp.jpg",
+    "voucher_length": 11,
+    "accept_character": false,
+    "can_send": true,
+    "can_receive": true,
+    "can_cancel": true,
+    "is_optional_purpose": false,
+    "currencies": [
+      {
+        "sendBrandId": 1392,
+        "cancelBrandId": 1430,
+        "receiveBrandId": 1429,
+        "currencyCode": "YER",
+        "nameAr": "ر.ي",
+        "nameEn": "YER",
+        "minAmount": 2000,
+        "maxAmount": 10000000
+      }
+    ],
+    "status": true
+  }
+]

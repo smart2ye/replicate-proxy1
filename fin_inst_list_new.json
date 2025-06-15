@@ -1,0 +1,79 @@
+[
+  {
+    "fin_inst_name_ar": "البنك اليمني للانشاء والتعمير",
+    "fin_inst_name_en": "Yemen Bank for Reconstruction and Development",
+    "fin_inst_type": "bank",
+    "brand_id": 627,
+    "logo_url": "https://ma.onecash.com.ye:7060/d/YBRD.png",
+    "max_length": 16,
+    "min_length": 16,
+    "accept_character": false,
+    "status": true
+  },
+  {
+    "fin_inst_name_ar": "بنك اليمن والبحرين الشامل",
+    "fin_inst_name_en": "Shamil Bank Of Yemen And Bahrain",
+    "fin_inst_type": "bank",
+    "brand_id": 629,
+    "logo_url": "https://ma.onecash.com.ye:7060/d/SBYB.png",
+    "max_length": 7,
+    "min_length": 4,
+    "accept_character": true,
+    "status": true
+  },
+  {
+    "fin_inst_name_ar": "بنك سبأ الإسلامي",
+    "fin_inst_name_en": "Saba Islamic Bank",
+    "fin_inst_type": "bank",
+    "brand_id": 630,
+    "logo_url": "https://ma.onecash.com.ye:7060/d/SHEBA_Bank.png",
+    "max_length": 10,
+    "min_length": 10,
+    "accept_character": false,
+    "status": true
+  },
+  {
+    "fin_inst_name_ar": "بنك اليمن والكويت",
+    "fin_inst_name_en": "Yemen Kuwait Bank",
+    "fin_inst_type": "bank",
+    "brand_id": 633,
+    "logo_url": "https://ma.onecash.com.ye:7060/d/YKB.png",
+    "max_length": 20,
+    "min_length": 10,
+    "accept_character": true,
+    "status": true
+  },
+  {
+    "fin_inst_name_ar": "البنك الإسلامي اليمني",
+    "fin_inst_name_en": "Yemen Islamic Bank",
+    "fin_inst_type": "bank",
+    "brand_id": 628,
+    "logo_url": "https://ma.onecash.com.ye:7060/d/YIB.png",
+    "max_length": 20,
+    "min_length": 20,
+    "accept_character": false,
+    "status": true
+  },
+  {
+    "fin_inst_name_ar": "جوالي",
+    "fin_inst_name_en": "JAWALI",
+    "fin_inst_type": "e-wallet",
+    "brand_id": 632,
+    "logo_url": "https://ma.onecash.com.ye:7060/d/jawali.png",
+    "max_length": 9,
+    "min_length": 9,
+    "accept_character": false,
+    "status": true
+  },
+  {
+    "fin_inst_name_ar": "فلوسك",
+    "fin_inst_name_en": "FLOOSAK",
+    "fin_inst_type": "e-wallet",
+    "brand_id": 631,
+    "logo_url": "https://ma.onecash.com.ye:7060/d/floosk.jpg",
+    "max_length": 9,
+    "min_length": 6,
+    "accept_character": true,
+    "status": true
+  }
+]

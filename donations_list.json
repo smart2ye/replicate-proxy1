@@ -1,0 +1,47 @@
+[
+  {
+    "name_ar": "دعم لفلسطين",
+    "name_en": "Donate for Palestine",
+    "icon_url": "https://ma.onecash.com.ye:7060/d/palestine.png",
+    "destination_number": "967716600614",
+    "brand_id": 1244,
+    "query_available": 0,
+    "status": true
+  },
+  {
+    "name_ar": "المؤسسة الوطنية لمكافحة السرطان",
+    "name_en": "National Cancer Control Foundation",
+    "icon_url": "https://ma.onecash.com.ye:7060/d/nccf.jpg",
+    "destination_number": "967738330000",
+    "brand_id": 1263,
+    "query_available": 0,
+    "status": true
+  },
+  {
+    "name_ar": "مؤسسة الشفقة لرعاية مرضى الفشل الكلوي والسرطان",
+    "name_en": "Shafaqa foundation",
+    "icon_url": "https://ma.onecash.com.ye:7060/d/Shafaqa.png",
+    "destination_number": "967776316363",
+    "brand_id": 1279,
+    "query_available": 0,
+    "status": true
+  },
+  {
+    "name_ar": "مؤسسة اليتيم التنموية",
+    "name_en": "Orphan foundation",
+    "icon_url": "https://ma.onecash.com.ye:7060/d/orphan.png",
+    "destination_number": "967780440778",
+    "brand_id": 1299,
+    "query_available": 0,
+    "status": true
+  },
+  {
+    "name_ar": "جمعية الأمان لرعاية الكفيفات",
+    "name_en": "AlAman Organization for Blind Women",
+    "icon_url": "https://ma.onecash.com.ye:7060/d/AMANcharity.png",
+    "destination_number": "967781660680",
+    "brand_id": 1309,
+    "query_available": 0,
+    "status": true
+  }
+]
