@@ -1,0 +1,92 @@
+[
+  {
+    "reason_code": "A",
+    "reason_ar": "صورة هويتك الشخصية غير مرفقة",
+    "reason_en": "You did not upload an ID"
+  },
+  {
+    "reason_code": "B",
+    "reason_ar": "البيانات المدخلة مختلفة عن بيانات هويتك",
+    "reason_en": "The ID details entered do not match your ID "
+  },
+  {
+    "reason_code": "C",
+    "reason_ar": "بيانات هويتك الأمامية المرفقة غير واضحة",
+    "reason_en": "The front side of your ID is unclear"
+  },
+  {
+    "reason_code": "D",
+    "reason_ar": "رقم الهوية الأمامية مختلف عن الرقم الخلفي",
+    "reason_en": "The ID number of the front side differs from the back side "
+  },
+  {
+    "reason_code": "E",
+    "reason_ar": "قمت بتصوير هويتك من جهة واحدة فقط",
+    "reason_en": "You uploaded the ID card form only one side"
+  },
+  {
+    "reason_code": "F",
+    "reason_ar": "لم تقم بإرفاق هويتك الشخصية و صورتك (السليفي)",
+    "reason_en": "You did not attach an ID not a selfie"
+  },
+  {
+    "reason_code": "G",
+    "reason_ar": "صورتك (السيلفي) المرفقة مختلفة عن صورة الهوية",
+    "reason_en": "The selfie you uploaded does not match your ID photo"
+  },
+  {
+    "reason_code": "H",
+    "reason_ar": "صورة هويتك المرفقة غير مكتملة",
+    "reason_en": "You uploaded an incomplete ID photo"
+  },
+  {
+    "reason_code": "I",
+    "reason_ar": "تصويرغير مباشر لهويتك",
+    "reason_en": "You took an indirect ID photo"
+  },
+  {
+    "reason_code": "J",
+    "reason_ar": "لم تقم بأخذ صورة مباشرة لوجهك (سيلفي)",
+    "reason_en": "You took an indirect selfie "
+  },
+  {
+    "reason_code": "K",
+    "reason_ar": "لم يتم بلوغ السن القانوني",
+    "reason_en": "Legal age requirement is not met"
+  },
+  {
+    "reason_code": "L",
+    "reason_ar": "نوع هويتك المرفقة غير صحيح",
+    "reason_en": "You uploaded an incorrect ID type"
+  },
+  {
+    "reason_code": "M",
+    "reason_ar": "صورتك في الهوية غير واضحة",
+    "reason_en": "Your face in the ID is unclear "
+  },
+  {
+    "reason_code": "N",
+    "reason_ar": "رقم هويتك المرفقة غير واضح",
+    "reason_en": "The ID number you uploaded is unclear"
+  },
+  {
+    "reason_code": "O",
+    "reason_ar": "بيانات هويتك الخلفية المرفقة غير واضحة",
+    "reason_en": "The back side of your ID is unclear"
+  },
+  {
+    "reason_code": "P",
+    "reason_ar": "صورة هويتك المرفقة غير أصلية",
+    "reason_en": "You uploaded a copy of you ID"
+  },
+  {
+    "reason_code": "Q",
+    "reason_ar": "صلاحية هويتك المرفقة منتهية",
+    "reason_en": "Expired ID"
+  },
+  {
+    "reason_code": "R",
+    "reason_ar": "صورتك (السليفي) غير واضحة",
+    "reason_en": "Your face in the selfie is unclear "
+  }
+]

@@ -1,0 +1,3372 @@
+[
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-2-",
+    "district_name_english": "Yarim",
+    "district_name_arabic": "يريم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-9-",
+    "district_name_english": "Hazm Al Udayn",
+    "district_name_arabic": "حزم العدين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-5-",
+    "district_name_english": "Ash Shair",
+    "district_name_arabic": "الشعر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-10-",
+    "district_name_english": "Far Al Udayn",
+    "district_name_arabic": "فرع العدين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-1-",
+    "district_name_english": "Al Qafr",
+    "district_name_arabic": "القفر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-3-",
+    "district_name_english": "Ar Radmah",
+    "district_name_arabic": "الرضمه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-8-",
+    "district_name_english": "Hubaysh",
+    "district_name_arabic": "حبيش",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-20-",
+    "district_name_english": "Ibb",
+    "district_name_arabic": "اب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-4-",
+    "district_name_english": "An Nadirah",
+    "district_name_arabic": "النادره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-6-",
+    "district_name_english": "As Saddah",
+    "district_name_arabic": "السده",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-7-",
+    "district_name_english": "Al Makhadir",
+    "district_name_arabic": "المخادر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-12-",
+    "district_name_english": "Jiblah",
+    "district_name_arabic": "جبله",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-13-",
+    "district_name_english": "Badan",
+    "district_name_arabic": "بعدان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-15-",
+    "district_name_english": "As Sayyani",
+    "district_name_arabic": "السياني",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-16-",
+    "district_name_english": "Dhi As Sufal",
+    "district_name_arabic": "ذي السفال",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-17-",
+    "district_name_english": "Mudhaykhirah",
+    "district_name_arabic": "مذيخره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-18-",
+    "district_name_english": "Al Mashannah",
+    "district_name_arabic": "المشنه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-19-",
+    "district_name_english": "Al Dhihar",
+    "district_name_arabic": "الظهار",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-11-",
+    "district_name_english": "Al Udayn",
+    "district_name_arabic": "العدين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "11-",
+    "govern_name_english": "Ibb",
+    "govern_name_arabic": "إب",
+    "district_code": "11-14-",
+    "district_name_english": "As Sabrah",
+    "district_name_arabic": "السبره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-4-",
+    "district_name_english": "Lawdar",
+    "district_name_arabic": "لودر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-3-",
+    "district_name_english": "Jayshan",
+    "district_name_arabic": "جيشان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-8-",
+    "district_name_english": "Al Wadea",
+    "district_name_arabic": "الوضيع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-11-",
+    "district_name_english": "Khanfir",
+    "district_name_arabic": "خنفر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-7-",
+    "district_name_english": "Sarar",
+    "district_name_arabic": "سرار",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-5-",
+    "district_name_english": "Sibah",
+    "district_name_arabic": "سباح",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-9-",
+    "district_name_english": "Ahwar",
+    "district_name_arabic": "احور",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-10-",
+    "district_name_english": "Zingibar",
+    "district_name_arabic": "زنجبار",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-2-",
+    "district_name_english": "Mudiyah",
+    "district_name_arabic": "موديه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-1-",
+    "district_name_english": "Al Mahfad",
+    "district_name_arabic": "المحفد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "12-",
+    "govern_name_english": "Abyan",
+    "govern_name_arabic": "أبين",
+    "district_code": "12-6-",
+    "district_name_english": "Rasad",
+    "district_name_arabic": "رصد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-1-",
+    "district_name_english": "Old City",
+    "district_name_arabic": "صنعاء القديمة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-9-",
+    "district_name_english": "Aththaorah",
+    "district_name_arabic": "الثورة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-10-",
+    "district_name_english": "Bani Al Harith",
+    "district_name_arabic": "بني الحارث",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-24-",
+    "district_name_english": "Al Amana Suburbs 2",
+    "district_name_arabic": "ضواحي الامانة سنحان وبني بهلول",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-8-",
+    "district_name_english": "Maain",
+    "district_name_arabic": "معين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-6-",
+    "district_name_english": "Al Wahdah",
+    "district_name_arabic": "الوحدة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-7-",
+    "district_name_english": "At Tahrir",
+    "district_name_arabic": "التحرير",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-5-",
+    "district_name_english": "As Sabain",
+    "district_name_arabic": "السبعين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-19-",
+    "district_name_english": "Al Amana Suburbs 1",
+    "district_name_arabic": "ضواحي الامانة همدان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-3-",
+    "district_name_english": "Azzal",
+    "district_name_arabic": "آزال",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-2-",
+    "district_name_english": "Shuaub",
+    "district_name_arabic": "شعوب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "13-",
+    "govern_name_english": "Amanat Al Asimah",
+    "govern_name_arabic": "أمانة العاصمة",
+    "district_code": "13-4-",
+    "district_name_english": "Assafiyah",
+    "district_name_arabic": "الصافية",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-2-",
+    "district_name_english": "Nati",
+    "district_name_arabic": "ناطع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-9-",
+    "district_name_english": "Al Bayda City",
+    "district_name_arabic": "مدينة البيضاء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-4-",
+    "district_name_english": "As Sawmaah",
+    "district_name_arabic": "الصومعه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-20-",
+    "district_name_english": "Al Malagim",
+    "district_name_arabic": "الملاجم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-3-",
+    "district_name_english": "Maswarah",
+    "district_name_arabic": "مسوره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-8-",
+    "district_name_english": "Mukayras",
+    "district_name_arabic": "مكيراس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-11-",
+    "district_name_english": "As Sawadiyah",
+    "district_name_arabic": "السواديه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-14-",
+    "district_name_english": "Al Quraishyah",
+    "district_name_arabic": "القريشيه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-15-",
+    "district_name_english": "Wald Rabi",
+    "district_name_arabic": "ولدربيع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-16-",
+    "district_name_english": "Al Arsh",
+    "district_name_arabic": "العرش",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-17-",
+    "district_name_english": "Sabah",
+    "district_name_arabic": "صباح",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-18-",
+    "district_name_english": "Ar Ryashyyah",
+    "district_name_arabic": "الرياشيه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-19-",
+    "district_name_english": "Ash Sharyah",
+    "district_name_arabic": "الشرية",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-12-",
+    "district_name_english": "Radman Al Awad",
+    "district_name_arabic": "ردمان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-7-",
+    "district_name_english": "At Taffah",
+    "district_name_arabic": "الطفه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-5-",
+    "district_name_english": "Az Zahir",
+    "district_name_arabic": "الزاهر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-6-",
+    "district_name_english": "Dhi Naim",
+    "district_name_arabic": "ذي ناعم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-10-",
+    "district_name_english": "Al Bayda",
+    "district_name_arabic": "البيضاء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-1-",
+    "district_name_english": "Naman",
+    "district_name_arabic": "نعمان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "14-",
+    "govern_name_english": "Al Bayda",
+    "govern_name_arabic": "البيضاء",
+    "district_code": "14-13-",
+    "district_name_english": "Rada",
+    "district_name_arabic": "رداع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-14-",
+    "district_name_english": "Ash Shamayatayn",
+    "district_name_arabic": "الشمايتين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-20-",
+    "district_name_english": "At Taiziyah",
+    "district_name_arabic": "التعزية",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-21-",
+    "district_name_english": "Al Maafer",
+    "district_name_arabic": "المعافر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-16-",
+    "district_name_english": "Hayfan",
+    "district_name_arabic": "حيفان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-1-",
+    "district_name_english": "Mawiyah",
+    "district_name_arabic": "ماويه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-2-",
+    "district_name_english": "Sharab As Salam",
+    "district_name_arabic": "شرعب السلام",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-3-",
+    "district_name_english": "Sharab Ar Rawnah",
+    "district_name_arabic": "شرعب الرونه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-4-",
+    "district_name_english": "Maqbanah",
+    "district_name_arabic": "مقبنه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-6-",
+    "district_name_english": "Dhubab",
+    "district_name_arabic": "باب المندب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-8-",
+    "district_name_english": "Jabal Habashy",
+    "district_name_arabic": "جبل حبشي",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-11-",
+    "district_name_english": "Al Misrakh",
+    "district_name_arabic": "المسراخ",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-12-",
+    "district_name_english": "Dimnat Khadir",
+    "district_name_arabic": "خدير",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-13-",
+    "district_name_english": "As Silw",
+    "district_name_arabic": "الصلو",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-15-",
+    "district_name_english": "Al Waziiyah",
+    "district_name_arabic": "الوازعيه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-23-",
+    "district_name_english": "Sama",
+    "district_name_arabic": "سامع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-22-",
+    "district_name_english": "Al Mawasit",
+    "district_name_arabic": "المواسط",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-5-",
+    "district_name_english": "Al  Mukha",
+    "district_name_arabic": "المخاء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-9-",
+    "district_name_english": "Mashraa Wa Hadnan",
+    "district_name_arabic": "مشرعه وحدنان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-10-",
+    "district_name_english": "Sabir Al Mawadim",
+    "district_name_arabic": "صبر الموادم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-7-",
+    "district_name_english": "Mawza",
+    "district_name_arabic": "موزع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-18-",
+    "district_name_english": "Al Qahirah",
+    "district_name_arabic": "القاهرة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-17-",
+    "district_name_english": "Al Mudhaffar",
+    "district_name_arabic": "المظفر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "15-",
+    "govern_name_english": "Ta izz",
+    "govern_name_arabic": "تعز",
+    "district_code": "15-19-",
+    "district_name_english": "Salh",
+    "district_name_arabic": "صاله",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-5-",
+    "district_name_english": "Al Hazm",
+    "district_name_arabic": "الحزم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-8-",
+    "district_name_english": "Al Ghayl",
+    "district_name_arabic": "الغيل",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-1-",
+    "district_name_english": "Khabb wa ash Shaaf",
+    "district_name_arabic": "خب والشعف",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-11-",
+    "district_name_english": "Rajuzah",
+    "district_name_arabic": "رجوزه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-10-",
+    "district_name_english": "Bart Al Anan",
+    "district_name_arabic": "برط العنان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-12-",
+    "district_name_english": "Kharab Al Marashi",
+    "district_name_arabic": "خراب المراشى",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-6-",
+    "district_name_english": "Al Maton",
+    "district_name_arabic": "المتون",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-7-",
+    "district_name_english": "Al Maslub",
+    "district_name_arabic": "المصلوب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-2-",
+    "district_name_english": "Al Humaydat",
+    "district_name_arabic": "الحميدات",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-3-",
+    "district_name_english": "Al Matammah",
+    "district_name_arabic": "المطمه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-4-",
+    "district_name_english": "Az Zahir",
+    "district_name_arabic": "الزاهر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "16-",
+    "govern_name_english": "Al Jawf",
+    "govern_name_arabic": "الجوف",
+    "district_code": "16-9-",
+    "district_name_english": "Al Khalq",
+    "district_name_arabic": "الخلق",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-18-",
+    "district_name_english": "Kuhlan Affar",
+    "district_name_arabic": "كحلان عفار",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-30-",
+    "district_name_english": "Washhah",
+    "district_name_arabic": "وشحه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-4-",
+    "district_name_english": "Abs",
+    "district_name_arabic": "عبس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-24-",
+    "district_name_english": "Bani Qais",
+    "district_name_arabic": "بني قيس الطور",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-8-",
+    "district_name_english": "Al Jamimah",
+    "district_name_arabic": "الجميمه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-5-",
+    "district_name_english": "Hayran",
+    "district_name_arabic": "حيران",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-6-",
+    "district_name_english": "Mustaba",
+    "district_name_arabic": "مستباء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-7-",
+    "district_name_english": "Kushar",
+    "district_name_arabic": "كشـــــر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-12-",
+    "district_name_english": "Aslem",
+    "district_name_arabic": "اسلــــم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-13-",
+    "district_name_english": "Qafl Shamer",
+    "district_name_arabic": "قفل شـمـــر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-29-",
+    "district_name_english": "Hajjah",
+    "district_name_arabic": "حجة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-31-",
+    "district_name_english": "Qarah",
+    "district_name_arabic": "قاره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-14-",
+    "district_name_english": "Aflah Al Yaman",
+    "district_name_arabic": "افلح اليمن",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-15-",
+    "district_name_english": "Al Mahabishah",
+    "district_name_arabic": "المحابشـه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-16-",
+    "district_name_english": "Al Miftah",
+    "district_name_arabic": "المفتــاح",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-10-",
+    "district_name_english": "Aflah Ash Shawm",
+    "district_name_arabic": "افلح الشام",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-11-",
+    "district_name_english": "Khayran Al Muharraq",
+    "district_name_arabic": "خيران المحرق",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-1-",
+    "district_name_english": "Bakil Al Mir",
+    "district_name_arabic": "بكيل المير",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-2-",
+    "district_name_english": "Haradh",
+    "district_name_arabic": "حرض",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-27-",
+    "district_name_english": "Bani Al Awam",
+    "district_name_arabic": "بني العوام",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-28-",
+    "district_name_english": "Hajjah City",
+    "district_name_arabic": "مدينة حجة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-9-",
+    "district_name_english": "Kuhlan Ash Sharaf",
+    "district_name_arabic": "كحلان الشرف",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-17-",
+    "district_name_english": "Al Maghrabah",
+    "district_name_arabic": "المغربـــه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-19-",
+    "district_name_english": "Sharas",
+    "district_name_arabic": "شـــرس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-20-",
+    "district_name_english": "Mabyan",
+    "district_name_arabic": "مبين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-21-",
+    "district_name_english": "Ash Shahil",
+    "district_name_arabic": "الشـاهــل",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-22-",
+    "district_name_english": "Kuaydinah",
+    "district_name_arabic": "كعيدنه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-3-",
+    "district_name_english": "Midi",
+    "district_name_arabic": "ميدي",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-23-",
+    "district_name_english": "Wadhrah",
+    "district_name_arabic": "وضـــره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-25-",
+    "district_name_english": "Ash Shaghadirah",
+    "district_name_arabic": "الشغادره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "17-",
+    "govern_name_english": "Hajjah",
+    "govern_name_arabic": "حجة",
+    "district_code": "17-26-",
+    "district_name_english": "Najrah",
+    "district_name_arabic": "نـجـــرة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-10-",
+    "district_name_english": "Bajil",
+    "district_name_arabic": "باجل",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-25-",
+    "district_name_english": "Al Garrahi",
+    "district_name_arabic": "الجراحي",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-17-",
+    "district_name_english": "Bayt Al Faqiah",
+    "district_name_arabic": "بيت الفقيه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-1-",
+    "district_name_english": "Az Zuhrah",
+    "district_name_arabic": "الزهره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-2-",
+    "district_name_english": "Alluheyah",
+    "district_name_arabic": "اللحية",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-6-",
+    "district_name_english": "Al Qanawis",
+    "district_name_arabic": "القناوص",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-7-",
+    "district_name_english": "Az Zaydiyah",
+    "district_name_arabic": "الزيدية",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-16-",
+    "district_name_english": "Al Mansuriyah",
+    "district_name_arabic": "المنصورية",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-18-",
+    "district_name_english": "Jabal Ras",
+    "district_name_arabic": "جبــل راس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-13-",
+    "district_name_english": "Al Marawiah",
+    "district_name_arabic": "المراوعه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-14-",
+    "district_name_english": "Ad Durayhimi",
+    "district_name_arabic": "الدريهمي",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-15-",
+    "district_name_english": "As Sukhnah",
+    "district_name_arabic": "السخنه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-19-",
+    "district_name_english": "Hays",
+    "district_name_arabic": "حيس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-20-",
+    "district_name_english": "Al Khawkhah",
+    "district_name_arabic": "الخوخه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-24-",
+    "district_name_english": "Zabid",
+    "district_name_arabic": "زبيد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-26-",
+    "district_name_english": "At Tuhayat",
+    "district_name_arabic": "التحيتا",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-5-",
+    "district_name_english": "Al Munirah",
+    "district_name_arabic": "المنيره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-9-",
+    "district_name_english": "Ad Dahi",
+    "district_name_arabic": "الضحى",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-12-",
+    "district_name_english": "Bura",
+    "district_name_arabic": "برع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-11-",
+    "district_name_english": "Al Hajjaylah",
+    "district_name_arabic": "الحجيلـــه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-8-",
+    "district_name_english": "Al Mighlaf",
+    "district_name_arabic": "المغلاف",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-21-",
+    "district_name_english": "Al Hawak",
+    "district_name_arabic": "الحوك",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-4-",
+    "district_name_english": "As Salif",
+    "district_name_arabic": "الصليف",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-23-",
+    "district_name_english": "Al Hali",
+    "district_name_arabic": "الحالي",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-3-",
+    "district_name_english": "Kamaran",
+    "district_name_arabic": "كمران",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "18-",
+    "govern_name_english": "Al Hudaydah",
+    "govern_name_arabic": "الحديدة",
+    "district_code": "18-22-",
+    "district_name_english": "Al Mina",
+    "district_name_arabic": "الميناء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-24-",
+    "district_name_english": "Hajr",
+    "district_name_arabic": "حجر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-18-",
+    "district_name_english": "Dawan",
+    "district_name_arabic": "دوعن",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-26-",
+    "district_name_english": "Hidaybu",
+    "district_name_arabic": "حديبو(ج سقطرى)",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-13-",
+    "district_name_english": "Ar Raydah Wa Qusayar",
+    "district_name_arabic": "الريده وقصيعر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-14-",
+    "district_name_english": "Ad Dis",
+    "district_name_arabic": "الديس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-17-",
+    "district_name_english": "Ghayl Ba Wazir",
+    "district_name_arabic": "غيل باوزير",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-22-",
+    "district_name_english": "Adh Dhliaah",
+    "district_name_arabic": "الضليعة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-25-",
+    "district_name_english": "Brom Mayfa",
+    "district_name_arabic": "بروم ميفع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-30-",
+    "district_name_english": "Al Mukalla",
+    "district_name_arabic": "المكلا",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-16-",
+    "district_name_english": "Ghayl Bin Yamin",
+    "district_name_arabic": "غيل بن يمين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-23-",
+    "district_name_english": "Yabuth",
+    "district_name_arabic": "يبعث",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-29-",
+    "district_name_english": "Al Mukalla City",
+    "district_name_arabic": "مدينة المكلا",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-15-",
+    "district_name_english": "Ash Shihr",
+    "district_name_arabic": "الشحر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "19-",
+    "govern_name_english": "Hadhramout- Al Mukalla",
+    "govern_name_arabic": "حضرموت- المكلاء",
+    "district_code": "19-27-",
+    "district_name_english": "Qulensya Wa Abd Al Kuri",
+    "district_name_arabic": "قلنسيه وعبد الكوري",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-5-",
+    "district_name_english": "Utmah",
+    "district_name_arabic": "عتمه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-3-",
+    "district_name_english": "Jabal Ash sharq",
+    "district_name_arabic": "جبل الشرق",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-7-",
+    "district_name_english": "Wusab As Safil",
+    "district_name_arabic": "وصاب السافل",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-6-",
+    "district_name_english": "Wusab Al Ali",
+    "district_name_arabic": "وصاب العالي",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-11-",
+    "district_name_english": "Dawran Aness",
+    "district_name_arabic": "ضوران انس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-12-",
+    "district_name_english": "Al Manar",
+    "district_name_arabic": "المنار",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-4-",
+    "district_name_english": "Maghirib Ans",
+    "district_name_arabic": "مغرب عنس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-8-",
+    "district_name_english": "Dhamar City",
+    "district_name_arabic": "مدينة ذمار",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-9-",
+    "district_name_english": "Mayfaat Anss",
+    "district_name_arabic": "ميفعة عنس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-10-",
+    "district_name_english": "Anss",
+    "district_name_arabic": "عنس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-1-",
+    "district_name_english": "Al Hada",
+    "district_name_arabic": "الحـــــــداء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "20-",
+    "govern_name_english": "Dhamar",
+    "govern_name_arabic": "ذمار",
+    "district_code": "20-2-",
+    "district_name_english": "Jahran",
+    "district_name_arabic": "جهران",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-10-",
+    "district_name_english": "Nisab",
+    "district_name_arabic": "نصاب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-3-",
+    "district_name_english": "Jardan",
+    "district_name_arabic": "جردان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-4-",
+    "district_name_english": "Arma",
+    "district_name_arabic": "عرماء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-9-",
+    "district_name_english": "Merkhah As Sufla",
+    "district_name_arabic": "مرخه السفلى",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-7-",
+    "district_name_english": "Bayhan",
+    "district_name_arabic": "بيحان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-1-",
+    "district_name_english": "Dhar",
+    "district_name_arabic": "دهر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-2-",
+    "district_name_english": "Al Talh",
+    "district_name_arabic": "الطلح",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-5-",
+    "district_name_english": "Usaylan",
+    "district_name_arabic": "عسيلان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-6-",
+    "district_name_english": "Ain",
+    "district_name_arabic": "عين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-11-",
+    "district_name_english": "Hatib",
+    "district_name_arabic": "حطيب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-12-",
+    "district_name_english": "As Said",
+    "district_name_arabic": "الصعيد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-13-",
+    "district_name_english": "Ataq",
+    "district_name_arabic": "عتق",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-15-",
+    "district_name_english": "Ar Rawdah",
+    "district_name_arabic": "الروضه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-16-",
+    "district_name_english": "Mayfaa",
+    "district_name_arabic": "ميفعه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-14-",
+    "district_name_english": "Habban",
+    "district_name_arabic": "حبان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-8-",
+    "district_name_english": "Merkhah Al Ulya",
+    "district_name_arabic": "مرخه العليا",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "21-",
+    "govern_name_english": "Shabwa",
+    "govern_name_arabic": "شبوة",
+    "district_code": "21-17-",
+    "district_name_english": "Rudum",
+    "district_name_arabic": "رضوم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-9-",
+    "district_name_english": "Saqayn",
+    "district_name_arabic": "ساقين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-7-",
+    "district_name_english": "Al Dhaher",
+    "district_name_arabic": "الظاهر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-4-",
+    "district_name_english": "Ghamr",
+    "district_name_arabic": "غمر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-5-",
+    "district_name_english": "Razih",
+    "district_name_arabic": "رازح",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-6-",
+    "district_name_english": "Shadaa",
+    "district_name_arabic": "شداء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-11-",
+    "district_name_english": "Sahar",
+    "district_name_arabic": "سحار",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-12-",
+    "district_name_english": "As Safra",
+    "district_name_arabic": "الصفراء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-13-",
+    "district_name_english": "Al Hashwah",
+    "district_name_arabic": "الحشوه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-1-",
+    "district_name_english": "Baqim",
+    "district_name_arabic": "باقم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-2-",
+    "district_name_english": "Qatabir",
+    "district_name_arabic": "قطابر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-10-",
+    "district_name_english": "Majz",
+    "district_name_arabic": "مجز",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-8-",
+    "district_name_english": "Haydan",
+    "district_name_arabic": "حيدان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-14-",
+    "district_name_english": "Kitaf wa Al Boqee",
+    "district_name_arabic": "كتاف والبقع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-3-",
+    "district_name_english": "Monabbih",
+    "district_name_arabic": "منبه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "22-",
+    "govern_name_english": "Saadah",
+    "govern_name_arabic": "صعدة",
+    "district_code": "22-15-",
+    "district_name_english": "Saadah",
+    "district_name_arabic": "صعده",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-2-",
+    "district_name_english": "Arhab",
+    "district_name_arabic": "أرحب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-8-",
+    "district_name_english": "Al Haymah Ad Dakhiliyah",
+    "district_name_arabic": "الحيمه الداخليه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-9-",
+    "district_name_english": "Al Haymah Al Kharijiyah",
+    "district_name_arabic": "الحيمه الخارجيه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-10-",
+    "district_name_english": "Manakhah",
+    "district_name_arabic": "مناخة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-16-",
+    "district_name_english": "Jihanah",
+    "district_name_arabic": "جحانه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-12-",
+    "district_name_english": "Khwlan",
+    "district_name_arabic": "خولان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-13-",
+    "district_name_english": "Attyal",
+    "district_name_arabic": "الطيال",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-1-",
+    "district_name_english": "Hamdan",
+    "district_name_arabic": "همدان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-5-",
+    "district_name_english": "Sanhan",
+    "district_name_arabic": "سنحان وبني بهلول",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-6-",
+    "district_name_english": "Bilad Ar Rus",
+    "district_name_arabic": "بلاد الروس",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-7-",
+    "district_name_english": "Bani Matar",
+    "district_name_arabic": "بنى مطر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-11-",
+    "district_name_english": "Safan",
+    "district_name_arabic": "صعفان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-14-",
+    "district_name_english": "Bani Dhabyan",
+    "district_name_arabic": "بني ضبيان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-15-",
+    "district_name_english": "Al Husn",
+    "district_name_arabic": "الحصن",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-3-",
+    "district_name_english": "Nihm",
+    "district_name_arabic": "نهم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "23-",
+    "govern_name_english": "Sanaa",
+    "govern_name_arabic": "صنعاء",
+    "district_code": "23-4-",
+    "district_name_english": "Bani Hushaysh",
+    "district_name_arabic": "بنى حشيش",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "24-",
+    "govern_name_english": "Aden",
+    "govern_name_arabic": "عدن",
+    "district_code": "24-2-",
+    "district_name_english": "Ash Shaikh Outhman",
+    "district_name_arabic": "الشيخ عثمان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "24-",
+    "govern_name_english": "Aden",
+    "govern_name_arabic": "عدن",
+    "district_code": "24-4-",
+    "district_name_english": "Al Buraiqeh",
+    "district_name_arabic": "البريقه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "24-",
+    "govern_name_english": "Aden",
+    "govern_name_arabic": "عدن",
+    "district_code": "24-1-",
+    "district_name_english": "Dar Sad",
+    "district_name_arabic": "دار سعد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "24-",
+    "govern_name_english": "Aden",
+    "govern_name_arabic": "عدن",
+    "district_code": "24-5-",
+    "district_name_english": "Attawahi",
+    "district_name_arabic": "التواهي",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "24-",
+    "govern_name_english": "Aden",
+    "govern_name_arabic": "عدن",
+    "district_code": "24-6-",
+    "district_name_english": "Al Mualla",
+    "district_name_arabic": "المعلا",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "24-",
+    "govern_name_english": "Aden",
+    "govern_name_arabic": "عدن",
+    "district_code": "24-3-",
+    "district_name_english": "Al Mansura",
+    "district_name_arabic": "المنصوره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "24-",
+    "govern_name_english": "Aden",
+    "govern_name_arabic": "عدن",
+    "district_code": "24-7-",
+    "district_name_english": "Craiter",
+    "district_name_arabic": "صيره(كريتر)",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "24-",
+    "govern_name_english": "Aden",
+    "govern_name_arabic": "عدن",
+    "district_code": "24-8-",
+    "district_name_english": "Khur Maksar",
+    "district_name_arabic": "خور مكسر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-12-",
+    "district_name_english": "Al Maqatirah",
+    "district_name_arabic": "المقاطرة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-2-",
+    "district_name_english": "Yafaa",
+    "district_name_arabic": "يافع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-5-",
+    "district_name_english": "Habil Jabr",
+    "district_name_arabic": "حبيل جبر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-4-",
+    "district_name_english": "Yahr",
+    "district_name_arabic": "يهر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-6-",
+    "district_name_english": "Halimayn",
+    "district_name_arabic": "حالمين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-3-",
+    "district_name_english": "Al Maflahy",
+    "district_name_arabic": "المفلحي",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-11-",
+    "district_name_english": "Tur Al Bahah",
+    "district_name_arabic": "طور الباحه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-10-",
+    "district_name_english": "Al Qabbaytah",
+    "district_name_arabic": "القبيطه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-13-",
+    "district_name_english": "Al Madaribah Wa Al Arah",
+    "district_name_arabic": "المضاربه و العاره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-15-",
+    "district_name_english": "Tuban",
+    "district_name_arabic": "تبن",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-1-",
+    "district_name_english": "Al Had",
+    "district_name_arabic": "الحد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-7-",
+    "district_name_english": "Radfan",
+    "district_name_arabic": "ردفان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-8-",
+    "district_name_english": "Al Milah",
+    "district_name_arabic": "الملاح",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-9-",
+    "district_name_english": "Al Musaymir",
+    "district_name_arabic": "المسيمير",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "25-",
+    "govern_name_english": "Lahij",
+    "govern_name_arabic": "لحج",
+    "district_code": "25-14-",
+    "district_name_english": "Al  Hawtah",
+    "district_name_arabic": "الحوطه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-6-",
+    "district_name_english": "Sirwah",
+    "district_name_arabic": "صرواح",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-4-",
+    "district_name_english": "Harib Al Qaramish",
+    "district_name_arabic": "حريب القرامش",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-5-",
+    "district_name_english": "Bidbadah",
+    "district_name_arabic": "بدبده",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-7-",
+    "district_name_english": "Al Jubah",
+    "district_name_arabic": "الجوبة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-9-",
+    "district_name_english": "Harib",
+    "district_name_arabic": "حريب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-10-",
+    "district_name_english": "Mahliyah",
+    "district_name_arabic": "ماهليه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-11-",
+    "district_name_english": "Al Abdiyah",
+    "district_name_arabic": "العبدية",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-13-",
+    "district_name_english": "Marib",
+    "district_name_arabic": "مأرب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-12-",
+    "district_name_english": "Marib City",
+    "district_name_arabic": "مدينة مأرب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-14-",
+    "district_name_english": "Jabal Murad",
+    "district_name_arabic": "جبل مراد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-3-",
+    "district_name_english": "Medghal",
+    "district_name_arabic": "مدغل الجدعان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-2-",
+    "district_name_english": "Raghwan",
+    "district_name_arabic": "رغوان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-1-",
+    "district_name_english": "Majzar",
+    "district_name_arabic": "مجزر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "26-",
+    "govern_name_english": "Marib",
+    "govern_name_arabic": "مأرب",
+    "district_code": "26-8-",
+    "district_name_english": "Rahabah",
+    "district_name_arabic": "رحبه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "27-",
+    "govern_name_english": "Al Mahwit",
+    "govern_name_arabic": "المحويت",
+    "district_code": "27-5-",
+    "district_name_english": "Milhan",
+    "district_name_arabic": "ملحان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "27-",
+    "govern_name_english": "Al Mahwit",
+    "govern_name_arabic": "المحويت",
+    "district_code": "27-3-",
+    "district_name_english": "Ar Rujum",
+    "district_name_arabic": "الرجم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "27-",
+    "govern_name_english": "Al Mahwit",
+    "govern_name_arabic": "المحويت",
+    "district_code": "27-9-",
+    "district_name_english": "Al Mahwait",
+    "district_name_arabic": "المحويت",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "27-",
+    "govern_name_english": "Al Mahwit",
+    "govern_name_arabic": "المحويت",
+    "district_code": "27-1-",
+    "district_name_english": "Shibam Kawkaban",
+    "district_name_arabic": "شبام كوكبان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "27-",
+    "govern_name_english": "Al Mahwit",
+    "govern_name_arabic": "المحويت",
+    "district_code": "27-2-",
+    "district_name_english": "At Tawilah",
+    "district_name_arabic": "الطويلة",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "27-",
+    "govern_name_english": "Al Mahwit",
+    "govern_name_arabic": "المحويت",
+    "district_code": "27-4-",
+    "district_name_english": "Al Khabt",
+    "district_name_arabic": "الخبت",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "27-",
+    "govern_name_english": "Al Mahwit",
+    "govern_name_arabic": "المحويت",
+    "district_code": "27-6-",
+    "district_name_english": "Hufash",
+    "district_name_arabic": "حفاش",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "27-",
+    "govern_name_english": "Al Mahwit",
+    "govern_name_arabic": "المحويت",
+    "district_code": "27-7-",
+    "district_name_english": "Bani Sad",
+    "district_name_arabic": "بنى سعد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "27-",
+    "govern_name_english": "Al Mahwit",
+    "govern_name_arabic": "المحويت",
+    "district_code": "27-8-",
+    "district_name_english": "Al Mahwait City",
+    "district_name_arabic": "مدينة المحويت",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "28-",
+    "govern_name_english": "Al Mahrah",
+    "govern_name_arabic": "المهرة",
+    "district_code": "28-5-",
+    "district_name_english": "Manar",
+    "district_name_arabic": "منعر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "28-",
+    "govern_name_english": "Al Mahrah",
+    "govern_name_arabic": "المهرة",
+    "district_code": "28-1-",
+    "district_name_english": "Shahan",
+    "district_name_arabic": "شحن",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "28-",
+    "govern_name_english": "Al Mahrah",
+    "govern_name_arabic": "المهرة",
+    "district_code": "28-6-",
+    "district_name_english": "Al Masilah",
+    "district_name_arabic": "المسيله",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "28-",
+    "govern_name_english": "Al Mahrah",
+    "govern_name_arabic": "المهرة",
+    "district_code": "28-9-",
+    "district_name_english": "Huswain",
+    "district_name_arabic": "حصوين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "28-",
+    "govern_name_english": "Al Mahrah",
+    "govern_name_arabic": "المهرة",
+    "district_code": "28-2-",
+    "district_name_english": "Hat",
+    "district_name_arabic": "حات",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "28-",
+    "govern_name_english": "Al Mahrah",
+    "govern_name_arabic": "المهرة",
+    "district_code": "28-3-",
+    "district_name_english": "Hawf",
+    "district_name_arabic": "حوف",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "28-",
+    "govern_name_english": "Al Mahrah",
+    "govern_name_arabic": "المهرة",
+    "district_code": "28-7-",
+    "district_name_english": "Sayhut",
+    "district_name_arabic": "سيحوت",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "28-",
+    "govern_name_english": "Al Mahrah",
+    "govern_name_arabic": "المهرة",
+    "district_code": "28-8-",
+    "district_name_english": "Qishn",
+    "district_name_arabic": "قشن",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "28-",
+    "govern_name_english": "Al Mahrah",
+    "govern_name_arabic": "المهرة",
+    "district_code": "28-4-",
+    "district_name_english": "Al Ghaydah",
+    "district_name_arabic": "الغيظه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-5-",
+    "district_name_english": "Shaharah",
+    "district_name_arabic": "شهاره",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-12-",
+    "district_name_english": "Jabal Iyal Yazid",
+    "district_name_arabic": "جبل عيال يزيد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-2-",
+    "district_name_english": "Huth",
+    "district_name_arabic": "حوث",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-14-",
+    "district_name_english": "As Sawd",
+    "district_name_arabic": "السود",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-4-",
+    "district_name_english": "Al Qaflah",
+    "district_name_arabic": "قفلة عذر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-6-",
+    "district_name_english": "Al Madan",
+    "district_name_arabic": "المــدان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-7-",
+    "district_name_english": "Suwayr",
+    "district_name_arabic": "صـويــــر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-8-",
+    "district_name_english": "Habur Zulaymah",
+    "district_name_arabic": "ظليمة حبور",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-9-",
+    "district_name_english": "Dhi Bin",
+    "district_name_arabic": "ذيبين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-11-",
+    "district_name_english": "Raydah",
+    "district_name_arabic": "ريده",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-13-",
+    "district_name_english": "As Sudah",
+    "district_name_arabic": "السوده",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-15-",
+    "district_name_english": "Amran",
+    "district_name_arabic": "عمران",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-16-",
+    "district_name_english": "Maswar",
+    "district_name_arabic": "مسور",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-18-",
+    "district_name_english": "Iyal Surayh",
+    "district_name_arabic": "عيال سريح",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-20-",
+    "district_name_english": "Bani Suraim",
+    "district_name_arabic": "بني صريم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-10-",
+    "district_name_english": "Kharif",
+    "district_name_arabic": "خارف",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-17-",
+    "district_name_english": "Thula",
+    "district_name_arabic": "ثلاء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-1-",
+    "district_name_english": "Harf Sufyan",
+    "district_name_arabic": "حرف سفيان",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-19-",
+    "district_name_english": "Khamir",
+    "district_name_arabic": "خمر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "29-",
+    "govern_name_english": "Amran",
+    "govern_name_arabic": "عمران",
+    "district_code": "29-3-",
+    "district_name_english": "Al Ashah",
+    "district_name_arabic": "العشـــــه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "30-",
+    "govern_name_english": "Ad Dali",
+    "govern_name_arabic": "الضالع",
+    "district_code": "30-2-",
+    "district_name_english": "Damt",
+    "district_name_arabic": "دمت",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "Yes"
+  },
+  {
+    "govern_code": "30-",
+    "govern_name_english": "Ad Dali",
+    "govern_name_arabic": "الضالع",
+    "district_code": "30-7-",
+    "district_name_english": "Jahaf",
+    "district_name_arabic": "جحاف",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "30-",
+    "govern_name_english": "Ad Dali",
+    "govern_name_arabic": "الضالع",
+    "district_code": "30-4-",
+    "district_name_english": "Ash Shuayb",
+    "district_name_arabic": "الشعيب",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "30-",
+    "govern_name_english": "Ad Dali",
+    "govern_name_arabic": "الضالع",
+    "district_code": "30-8-",
+    "district_name_english": "Al Azariq",
+    "district_name_arabic": "الازارق",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "30-",
+    "govern_name_english": "Ad Dali",
+    "govern_name_arabic": "الضالع",
+    "district_code": "30-6-",
+    "district_name_english": "Ad Dhalee",
+    "district_name_arabic": "الضالع",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "30-",
+    "govern_name_english": "Ad Dali",
+    "govern_name_arabic": "الضالع",
+    "district_code": "30-9-",
+    "district_name_english": "Al Husha",
+    "district_name_arabic": "الحشاء",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "30-",
+    "govern_name_english": "Ad Dali",
+    "govern_name_arabic": "الضالع",
+    "district_code": "30-3-",
+    "district_name_english": "Qaatabah",
+    "district_name_arabic": "قعطبه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "30-",
+    "govern_name_english": "Ad Dali",
+    "govern_name_arabic": "الضالع",
+    "district_code": "30-5-",
+    "district_name_english": "Al Hussein",
+    "district_name_arabic": "الحصين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "30-",
+    "govern_name_english": "Ad Dali",
+    "govern_name_arabic": "الضالع",
+    "district_code": "30-1-",
+    "district_name_english": "Juban",
+    "district_name_arabic": "جبن",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "31-",
+    "govern_name_english": "Raymah",
+    "govern_name_arabic": "ريمة",
+    "district_code": "31-4-",
+    "district_name_english": "Mazhar",
+    "district_name_arabic": "مزهر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "31-",
+    "govern_name_english": "Raymah",
+    "govern_name_arabic": "ريمة",
+    "district_code": "31-2-",
+    "district_name_english": "As Salafiyah",
+    "district_name_arabic": "السلفيه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "31-",
+    "govern_name_english": "Raymah",
+    "govern_name_arabic": "ريمة",
+    "district_code": "31-3-",
+    "district_name_english": "Al Jabin",
+    "district_name_arabic": "الجبين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "31-",
+    "govern_name_english": "Raymah",
+    "govern_name_arabic": "ريمة",
+    "district_code": "31-5-",
+    "district_name_english": "Kusmah",
+    "district_name_arabic": "كسمه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "31-",
+    "govern_name_english": "Raymah",
+    "govern_name_arabic": "ريمة",
+    "district_code": "31-6-",
+    "district_name_english": "Al Jafariyah",
+    "district_name_arabic": "الجعفريه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "31-",
+    "govern_name_english": "Raymah",
+    "govern_name_arabic": "ريمة",
+    "district_code": "31-1-",
+    "district_name_english": "Bilad At Taam",
+    "district_name_arabic": "بلاد الطعام",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "33-",
+    "govern_name_english": "Socotra",
+    "govern_name_arabic": "ارخبيل سقطرى",
+    "district_code": "33-26-",
+    "district_name_english": "Hidaybu",
+    "district_name_arabic": "حديبو(ج سقطرى)",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "33-",
+    "govern_name_english": "Socotra",
+    "govern_name_arabic": "ارخبيل سقطرى",
+    "district_code": "33-27-",
+    "district_name_english": "Qulensya Wa Abd Al Kuri",
+    "district_name_arabic": "قلنسيه وعبد الكوري",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-6-",
+    "district_name_english": "Al Abr",
+    "district_name_arabic": "العبر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-21-",
+    "district_name_english": "Amd",
+    "district_name_arabic": "عمد",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-2-",
+    "district_name_english": "Thamud",
+    "district_name_arabic": "ثمود",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-9-",
+    "district_name_english": "Sah",
+    "district_name_arabic": "ساه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-7-",
+    "district_name_english": "Al Qatn",
+    "district_name_arabic": "القطن",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-8-",
+    "district_name_english": "Shibam",
+    "district_name_arabic": "شبام",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-10-",
+    "district_name_english": "Sayun",
+    "district_name_arabic": "سيئون",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-12-",
+    "district_name_english": "As Sawm",
+    "district_name_arabic": "السوم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-5-",
+    "district_name_english": "Hagr As Saiar",
+    "district_name_arabic": "حجر الصيعر",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-11-",
+    "district_name_english": "Tarim",
+    "district_name_arabic": "تريم",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-19-",
+    "district_name_english": "Wadi Al Ayn",
+    "district_name_arabic": "وادي العين",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-20-",
+    "district_name_english": "Rakhyah",
+    "district_name_arabic": "رخية",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-28-",
+    "district_name_english": "Huraidhah",
+    "district_name_arabic": "حريضه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-1-",
+    "district_name_english": "Rumah",
+    "district_name_arabic": "رماه",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-3-",
+    "district_name_english": "Al Qaf",
+    "district_name_arabic": "القف",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  },
+  {
+    "govern_code": "36-",
+    "govern_name_english": "Hadhramout- Seiyun",
+    "govern_name_arabic": "حضرموت - سيئون",
+    "district_code": "36-4-",
+    "district_name_english": "Zamakh wa Manwakh",
+    "district_name_arabic": "زمنخ ومنوخ",
+    "registration_enabled": "Yes",
+    "voucher_enabled": "No"
+  }
+]

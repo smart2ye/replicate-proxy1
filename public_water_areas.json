@@ -1,0 +1,206 @@
+[
+  {
+    "gov_name_ar": "الأمانة",
+    "brand_id": "204",
+    "e_query": "1",
+    "gateway_code": "B-06-0601",
+    "area_code": "0601",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "الحديدة",
+    "area_name_ar": "الحديدة",
+    "brand_id": "205",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "7",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - المكلاء",
+    "area_name_ar": "المكلا",
+    "brand_id": "206",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "35",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - المكلاء",
+    "area_name_ar": "الشحر",
+    "brand_id": "207",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "45",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - سيئون",
+    "area_name_ar": "تريم",
+    "brand_id": "370",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "34",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "ذمار",
+    "brand_id": "371",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "10",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "عمران",
+    "brand_id": "372",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "28",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - المكلاء",
+    "area_name_ar": "غيل باوزير",
+    "brand_id": "356",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "55",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - المكلاء",
+    "area_name_ar": "الديس",
+    "brand_id": "357",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "65",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - سيئون",
+    "area_name_ar": "قصير",
+    "brand_id": "358",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "69",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - المكلاء",
+    "area_name_ar": "ميفع",
+    "brand_id": "359",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "70",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "الحديدة",
+    "area_name_ar": "الصليف",
+    "brand_id": "360",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "14",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "الحديدة",
+    "area_name_ar": "المراوعة",
+    "brand_id": "361",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "22",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "تعز",
+    "area_name_ar": "التربة",
+    "brand_id": "362",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "64",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - سيئون",
+    "area_name_ar": "القطن",
+    "brand_id": "363",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "53",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "اب",
+    "brand_id": "364",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "8",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - سيئون",
+    "area_name_ar": "عتق",
+    "brand_id": "365",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "38",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - سيئون",
+    "area_name_ar": "شبام",
+    "brand_id": "366",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "43",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حجة",
+    "brand_id": "367",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "9",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت - سيئون",
+    "area_name_ar": "سيئون",
+    "brand_id": "368",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "41",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "ساه",
+    "brand_id": "369",
+    "e_query": "1",
+    "gateway_code": "yp004",
+    "area_code": "42",
+    "status": false,
+    "query_available": 1
+  }
+]

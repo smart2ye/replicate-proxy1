@@ -1,0 +1,57 @@
+[
+  {
+    "name_en":"Amran factory collections",
+    "name_ar":"تحصيلات مصنع أسمنت عمران",
+    "position":2,
+    "api_config":{
+      "brand_id":1503,
+      "service_code":"2001",
+      "biller_code":"20",
+      "ext_inq":0,
+      "category_id":"0",
+      "tcs_fee":0
+    },
+    "customer_number_validation":{
+      "max_length":12,
+      "regex":"[0-9]+",
+      "number_input_only":true,
+      "allow_mobile_number_input":false
+    }
+  },
+  {
+    "name_en":"Bahel factory collections",
+    "name_ar":"تحصيلات مصنع أسمنت باحل",
+    "position":1,
+    "api_config":{
+      "brand_id":1502,
+      "service_code":"2001",
+      "biller_code":"20",
+      "ext_inq":0,
+      "category_id":"0"
+    },
+    "customer_number_validation":{
+      "max_length":12,
+      "regex":"[0-9]+",
+      "number_input_only":true,
+      "allow_mobile_number_input":false
+    }
+  },
+  {
+    "name_en":"Al Barh factory services",
+    "name_ar":"تحصيلات مصنع أسمنت البرح",
+    "position":3,
+    "api_config":{
+      "brand_id":1501,
+      "service_code":"2001",
+      "biller_code":"20",
+      "ext_inq":0,
+      "category_id":"0"
+    },
+    "customer_number_validation":{
+      "max_length":12,
+      "regex":"[0-9]+",
+      "number_input_only":true,
+      "allow_mobile_number_input":false
+    }
+  }
+]

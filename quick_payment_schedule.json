@@ -1,0 +1,30 @@
+[
+  {
+    "service_name": "adsl",
+    "schedule": {
+      "count_days": 30,
+      "force_month_day": 27
+    }
+  },
+  {
+    "service_name": "water",
+    "schedule": {
+      "count_days": 30,
+      "force_month_day": 27
+    }
+  },
+  {
+    "service_name": "landline",
+    "schedule": {
+      "count_days": 30,
+      "force_month_day": 27
+    }
+  },
+  {
+    "service_name": "national_electricity",
+    "schedule": {
+      "count_days": 30,
+      "force_month_day": 27
+    }
+  }
+]

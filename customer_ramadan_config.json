@@ -1,0 +1,9 @@
+{
+  "enable_splash_theme":false,
+  "enable_splash_loading_android":false,
+  "enable_splash_loading_ios":false,
+  "enable_app_bar_theme":false,
+  "enable_background_theme":false,
+  "enable_orange_envelope":false,
+  "gift_message_char_limit":80
+}

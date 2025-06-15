@@ -1,0 +1,173 @@
+[
+  {
+    "gov_name_ar": "الأمانة",
+    "area_name_ar": "المنطقة الثالثة",
+    "brand_id": "377",
+    "e_query": "1",
+    "gateway_code": "B-08-227",
+    "area_code": "227",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "الحديدة",
+    "brand_id": "201",
+    "e_query": "1",
+    "gateway_code": "B-08-1824",
+    "area_code": "1824",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت",
+    "area_name_ar": "الساحل",
+    "brand_id": "202",
+    "e_query": "1",
+    "gateway_code": "yp003",
+    "area_code": "17",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حضرموت",
+    "area_name_ar": "الوادي",
+    "brand_id": "203",
+    "e_query": "1",
+    "gateway_code": "yp003",
+    "area_code": "16",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "الأمانة",
+    "area_name_ar": "المنطقة الأولى",
+    "brand_id": "375",
+    "e_query": "1",
+    "gateway_code": "B-08-225",
+    "area_code": "225",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "الأمانة",
+    "area_name_ar": "المنطقة الثانية",
+    "brand_id": "376",
+    "e_query": "1",
+    "gateway_code": "B-08-226",
+    "area_code": "226",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "الأمانة",
+    "area_name_ar": "المنطقة الثانية-توزيع",
+    "brand_id": "1262",
+    "e_query": "1",
+    "gateway_code": "yp003",
+    "area_code": "82",
+    "status": false,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "الأمانة",
+    "area_name_ar": "المنطقة الرابعة",
+    "brand_id": "378",
+    "e_query": "1",
+    "gateway_code": "B-08-228",
+    "area_code": "228",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "ذمار",
+    "brand_id": "379",
+    "e_query": "1",
+    "gateway_code": "B-08-2618",
+    "area_code": "2618",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "اب",
+    "area_name_ar": "يريم",
+    "brand_id": "380",
+    "e_query": "1",
+    "gateway_code": "B-08-2454",
+    "area_code": "2454",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "اب",
+    "area_name_ar": "اب",
+    "brand_id": "381",
+    "e_query": "1",
+    "gateway_code": "B-08-2824",
+    "area_code": "2824",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "حجة",
+    "brand_id": "382",
+    "e_query": "1",
+    "gateway_code": "B-08-2267",
+    "area_code": "2267",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "عمران",
+    "brand_id": "383",
+    "e_query": "1",
+    "gateway_code": "B-08-4992",
+    "area_code": "4992",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "صنعاء",
+    "brand_id": "384",
+    "e_query": "1",
+    "gateway_code": "B-08-2266",
+    "area_code": "2266",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "تعز",
+    "brand_id": "477",
+    "e_query": "1",
+    "gateway_code": "B-08-4702",
+    "area_code": "4702",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "صعده",
+    "brand_id": "1304",
+    "e_query": "1",
+    "gateway_code": "B-08-7622",
+    "area_code": "7622",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "المحويت",
+    "brand_id": "1302",
+    "e_query": "1",
+    "gateway_code": "B-08-2378",
+    "area_code": "2378",
+    "status": true,
+    "query_available": 1
+  },
+  {
+    "gov_name_ar": "رداع",
+    "brand_id": "1303",
+    "e_query": "1",
+    "gateway_code": "B-08-2378",
+    "area_code": "2378",
+    "status": true,
+    "query_available": 1
+  }
+]
