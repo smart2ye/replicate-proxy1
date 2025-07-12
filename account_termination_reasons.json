@@ -1,0 +1,22 @@
+[
+  {
+    "reason_ar": "العمولة مرتفعة جداً",
+    "reason_en": "Fees is too high"
+  },
+  {
+    "reason_ar": "الخدمة غير متوفرة في أغلب الوقت",
+    "reason_en": "Service is not available most of the time"
+  },
+  {
+    "reason_ar": "قمت بالتحويل لمحفظة الكترونية أخرى",
+    "reason_en": "I switched to another e-wallet"
+  },
+  {
+    "reason_ar": "خدمة العملاء سيئة جداً",
+    "reason_en": "Poor customer service"
+  },
+  {
+    "reason_ar": "أخرى",
+    "reason_en": "Other"
+  }
+]

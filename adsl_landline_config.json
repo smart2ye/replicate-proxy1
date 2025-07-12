@@ -1,0 +1,16 @@
+[
+    {
+        "service_type": "adsl",
+        "brand_id": 1307,
+        "gateway_id": "0102",
+        "status": true,
+        "query_available": 1
+    },
+    {
+        "service_type": "landline",
+        "brand_id": 1305,
+        "gateway_id": "0101",
+        "status": true,
+        "query_available": 1
+    }
+]

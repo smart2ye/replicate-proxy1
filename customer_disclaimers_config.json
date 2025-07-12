@@ -1,0 +1,146 @@
+{
+  "voucher_local_networks_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that the voucher and recipient details are correct before confirming the transaction.",
+    "disclaimer_ar": "يرجى التحقق من أن بيانات الحوالة والمستلم صحيحة قبل تأكيد العملية"
+  },
+  "e_voucher_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that the voucher and recipient details are correct before confirming the transaction.",
+    "disclaimer_ar": "يرجى التحقق من أن بيانات الحوالة والمستلم صحيحة قبل تأكيد العملية"
+  },
+  "voucher_non_customer_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "Please confirm that the voucher and recipient details are correct before confirming the transaction.",
+    "success_disclaimer_ar": "يرجى التحقق من أن بيانات الحوالة والمستلم صحيحة قبل تأكيد العملية",
+    "disclaimer_en": "Please confirm that the voucher and recipient details are correct before confirming the transaction.",
+    "disclaimer_ar": "يرجى التحقق من أن بيانات الحوالة والمستلم صحيحة قبل تأكيد العملية"
+  },
+  "internet_payment_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "landline_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "electricity_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "water_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "disclaimer_microfinance": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "disclaimer_universities": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "disclaimer_traffic": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "airtime_bundle_78_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "airtime_bundle_77_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "airtime_bundle_73_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "airtime_bundle_71_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "airtime_bundle_70_disclaimer": {
+    "enabled": true,
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": "",
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded",
+    "disclaimer_ar": "يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المحصوم غير قابل للاسترجاع"
+  },
+  "cement": {
+    "enabled": false,
+    "disclaimer_en": "Please confirm that all details are correct. Deducted amount will not be refunded.",
+    "disclaimer_ar": ".يرجى التأكد من أن جميع البيانات المدخلة صحيحة. المبلغ المخصوم غير قابل للاسترجاع",
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": ""
+  },
+  "receive_internal_voucher_online": {
+    "enabled": false,
+    "disclaimer_en": "",
+    "disclaimer_ar": "",
+    "success_screen_enabled": false,
+    "success_disclaimer_en": "",
+    "success_disclaimer_ar": ""
+  },
+  "receive_internal_voucher_offline": {
+    "enabled": false,
+    "disclaimer_en": "",
+    "disclaimer_ar": "",
+    "success_screen_enabled": true,
+    "success_disclaimer_en": "Your request will be reviewed. Check status in Last transactions > Requests",
+    "success_disclaimer_ar": "سيتم مراجعة طلبك. تحقق من حالته بالذهاب إلى\n العمليات السابقة > الطلبات"
+  }
+}
